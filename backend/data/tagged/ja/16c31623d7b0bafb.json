@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "畑山",
+      "translation": "Hatakeyama (Mountain)",
+      "romanization": "Hatakeyama",
+      "bbox": [
+        290,
+        460,
+        360,
+        510
+      ],
+      "breakdown": "畑 (hatake) means 'field' or 'farm'; 山 (yama) means 'mountain'. Together, 畑山 (Hatakeyama) is a common place name, often referring to a specific mountain or an area associated with one."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A1",
+  "where_youd_see_it": "On a hiking trail or mountain path, indicating a destination.",
+  "cultural_note": "Many Japanese mountain and place names are formed by combining descriptive kanji, such as 畑 (field) and 山 (mountain), providing a direct insight into the geographical characteristics of the location.",
+  "image_id": "16c31623d7b0bafb",
+  "language": "ja"
+}

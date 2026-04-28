@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "路面凍結注意",
+      "translation": "Caution: Road surface freezing",
+      "romanization": "romen tōketsu chūi",
+      "bbox": [
+        305,
+        620,
+        450,
+        680
+      ],
+      "breakdown": "路面 (romen): road surface; 凍結 (tōketsu): freezing; 注意 (chūi): caution/warning. A common warning for slippery conditions."
+    },
+    {
+      "original": "足元にご注意ください",
+      "translation": "Please watch your step.",
+      "romanization": "ashimoto ni go-chūi kudasai",
+      "bbox": [
+        480,
+        620,
+        680,
+        680
+      ],
+      "breakdown": "足元 (ashimoto): underfoot, at one's feet; に (ni): particle; ご注意 (go-chūi): polite form of 'caution'; ください (kudasai): polite request 'please do'."
+    },
+    {
+      "original": "ご近隣の皆様へ",
+      "translation": "To our neighbors",
+      "romanization": "go-kinrin no minasama e",
+      "bbox": [
+        290,
+        290,
+        330,
+        550
+      ],
+      "breakdown": "ご (go): honorific prefix; 近隣 (kinrin): neighborhood; の (no): possessive particle; 皆様 (minasama): everyone (polite); へ (e): particle 'to'."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would see these signs at a construction site entrance or along a road, especially in winter.",
+  "cultural_note": "Construction sites in Japan frequently display polite notices to local residents, apologizing for inconvenience and detailing work schedules, alongside safety warnings like these.",
+  "image_id": "4545387e3c2d3369",
+  "language": "ja"
+}

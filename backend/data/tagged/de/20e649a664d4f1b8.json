@@ -1,0 +1,12 @@
+{
+  "usable": false,
+  "reject_reason": "no text",
+  "language_detected": "none",
+  "regions": [],
+  "category": "warning",
+  "difficulty": "A1",
+  "where_youd_see_it": "On a wall in a building, indicating the location of a fire alarm.",
+  "cultural_note": "This is an international symbol (ISO 7010 F001) for a manual fire alarm call point, used worldwide to indicate where to manually activate a fire alarm in case of emergency.",
+  "image_id": "20e649a664d4f1b8",
+  "language": "de"
+}

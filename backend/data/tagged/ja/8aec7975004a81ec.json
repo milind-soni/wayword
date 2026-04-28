@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "スリップに注意!",
+      "translation": "Caution: Slippery!",
+      "romanization": "Surippu ni chūi!",
+      "bbox": [
+        415,
+        240,
+        460,
+        490
+      ],
+      "breakdown": "スリップ (surippu) is a loanword from English 'slip'. に (ni) is a particle indicating the object of caution. 注意 (chūi) means 'caution' or 'attention'. The phrase ～に注意 is a common warning meaning 'Beware of ~' or 'Be careful of ~'."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "A1",
+  "where_youd_see_it": "On a path or sidewalk near a river or in an area prone to becoming slippery, often warning cyclists or pedestrians.",
+  "cultural_note": "Japanese warning signs frequently use Katakana for loanwords like 'スリップ' (slip) and often include clear visual pictograms to ensure universal understanding, even for those who may not read Japanese.",
+  "image_id": "8aec7975004a81ec",
+  "language": "ja"
+}

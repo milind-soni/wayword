@@ -1,0 +1,97 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "京都博覧會沿革誌 上巻",
+      "translation": "History of the Kyoto Exhibition, Volume 1",
+      "romanization": "Kyōto Hakurankai Enkaku-shi Jōkan",
+      "bbox": [
+        35,
+        930,
+        215,
+        955
+      ],
+      "breakdown": "京都 (Kyōto): Kyoto; 博覧會 (Hakurankai): Exhibition (old kanji for 博物館); 沿革誌 (Enkaku-shi): Historical record/chronicle; 上巻 (Jōkan): Upper volume / Volume 1"
+    },
+    {
+      "original": "神戸東本町 大阪川口 右二ヶ所ニ如圖ホラフチ建設テ目票トス",
+      "translation": "At Kobe Higashihonmachi and Osaka Kawaguchi, at these two locations, a flag should be erected as shown in the diagram to serve as a landmark.",
+      "romanization": "Kōbe Higashihonmachi Ōsaka Kawaguchi Migi ni-ka-sho ni jyo-zu horafu-chi kensetsu-te mokuhyō to-su",
+      "bbox": [
+        50,
+        620,
+        480,
+        650
+      ],
+      "breakdown": "神戸東本町 (Kōbe Higashihonmachi): Higashihonmachi, Kobe (a place name); 大阪川口 (Ōsaka Kawaguchi): Kawaguchi, Osaka (a place name); 右二ヶ所 (migi ni ka-sho): these two places on the right; ニ (ni): particle 'at'; 如圖 (jyo-zu): as per diagram (如: like, 圖: diagram/picture); ホラフチ (horafu-chi): likely an old phonetic spelling for 'flag'; 建設テ (kensetsu-te): construct/build (建設: construction, テ: old form of particle て); 目票トス (mokuhyō to-su): make it a landmark/signpost (目票: landmark, トス: old form of とする, to make it)"
+    },
+    {
+      "original": "一旅館案内ノ方ハ左ノ三ヶ所ニ右ノホラフチ立置ベシ客人其家ニ到リ名ヲ示シ玉ハバ直ニ京ノ旅館ニ導クベシ 伏見京橋 亀甲屋善九郎",
+      "translation": "For hotel guidance, place the flag from the right at the three locations on the left. When guests arrive at their respective homes and show their names, they should be directly guided to the hotels in Kyoto. Fushimi Kyobashi, Kikkouya Zenkuro.",
+      "romanization": "Ichi ryokan annai no kata wa hidari no san-ka-sho ni migi no horafu-chi tate-oku-beshi. Kakujin sono ie ni itari na o shimeshi-tama-waba jiki ni Kyō no ryokan ni michibiku-beshi. Fushimi Kyōbashi, Kikkōya Zenkurō.",
+      "bbox": [
+        50,
+        160,
+        990,
+        200
+      ],
+      "breakdown": "一旅館案内ノ方 (ichi ryokan annai no kata): regarding hotel guidance (旅館: hotel/inn, 案内: guidance); ハ (wa): topic particle; 左ノ三ヶ所 (hidari no san-ka-sho): at the three places on the left; ニ (ni): particle 'at'; 右ノホラフチ (migi no horafu-chi): the flag from the right; 立置ベシ (tate-oku-beshi): should be placed/erected (ベシ: old form of べし, indicating obligation); 客人 (kakujin): guests; 其家 (sono ie): their respective homes; ニ到リ (ni itari): when they arrive; 名ヲ示シ玉ハバ (na o shimeshi-tama-waba): if they show their names (玉ハバ: old polite auxiliary verb form); 直ニ (jiki ni): directly; 京ノ旅館 (Kyō no ryokan): hotels in Kyoto; ニ導クベシ (ni michibiku-beshi): should be guided to; 伏見京橋 (Fushimi Kyōbashi): Fushimi Kyobashi (place name); 亀甲屋善九郎 (Kikkōya Zenkurō): Kikkouya Zenkuro (person/business name)"
+    },
+    {
+      "original": "旗 周邊紅色 中 白 洋字 黒",
+      "translation": "Flag: Red perimeter, White in the middle, Black Western script.",
+      "romanization": "Hata Shūhen kōshoku, Chū shiro, Yōji kuro",
+      "bbox": [
+        570,
+        450,
+        640,
+        520
+      ],
+      "breakdown": "旗 (Hata): Flag; 周邊紅色 (Shūhen kōshoku): Perimeter red (周邊: perimeter, 紅色: red); 中 白 (Chū shiro): Middle white (中: middle, 白: white); 洋字 黒 (Yōji kuro): Western script black (洋字: Western characters/script, 黒: black)"
+    },
+    {
+      "original": "爲替會社",
+      "translation": "Exchange Company",
+      "romanization": "Kawase Gaisha",
+      "bbox": [
+        450,
+        890,
+        560,
+        910
+      ],
+      "breakdown": "爲替 (Kawase): Exchange (currency); 會社 (Gaisha): Company (old kanji for 会社)"
+    },
+    {
+      "original": "船上リ場",
+      "translation": "Ship landing/loading area",
+      "romanization": "Fune-agari-ba",
+      "bbox": [
+        570,
+        890,
+        680,
+        910
+      ],
+      "breakdown": "船 (Fune): Ship; 上リ (Agari): old form of 上がり, ascent/landing; 場 (Ba): Place/area"
+    },
+    {
+      "original": "一〇",
+      "translation": "10",
+      "romanization": "Jū",
+      "bbox": [
+        880,
+        890,
+        920,
+        910
+      ],
+      "breakdown": "一 (ichi): one; 〇 (zero): zero. Together, 10 (likely a page number)."
+    }
+  ],
+  "category": "info",
+  "difficulty": "C1",
+  "where_youd_see_it": "In a historical document or chronicle describing an exhibition from the Meiji era or earlier.",
+  "cultural_note": "This document uses old Japanese (文語文 - bungobun) and historical kana usage (歴史的仮名遣い - rekishiteki kanazukai), which differ significantly from modern Japanese in grammar and spelling. For instance, ホラフチ is a phonetic rendering that would be 旗 (hata) in modern kana. ベシ (beshi) and トス (tosu) are archaic grammatical endings.",
+  "image_id": "20c7459a4f05f4ef",
+  "language": "ja"
+}

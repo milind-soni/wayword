@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "BOStrab\nEBO",
+      "translation": "Tram Construction and Operating Regulations (not applicable)\nRailway Construction and Operating Regulations (applicable)",
+      "romanization": null,
+      "bbox": [
+        382,
+        435,
+        491,
+        554
+      ],
+      "breakdown": "BOStrab is an acronym for 'Verordnung über den Bau und Betrieb der Straßenbahnen' (Ordinance on the Construction and Operation of Trams). It is crossed out, indicating its non-applicability here. EBO is an acronym for 'Eisenbahn-Bau- und Betriebsordnung' (Railway Construction and Operating Regulations), indicating its applicability."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "B2",
+  "where_youd_see_it": "You would see this sign near railway tracks or tram lines, especially at points where different regulatory frameworks might apply.",
+  "cultural_note": "In Germany, 'BOStrab' and 'EBO' are two distinct sets of regulations governing different types of rail transport. BOStrab applies to streetcars (trams), while EBO applies to regular railways. A sign like this indicates which set of rules is legally binding for a specific section of track, often important for safety and operational procedures.",
+  "image_id": "7d25351751c43ad8",
+  "language": "de"
+}

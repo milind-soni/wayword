@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "アサヒカメラ",
+      "translation": "Asahi Camera",
+      "romanization": "Asahi Kamera",
+      "bbox": [
+        80,
+        270,
+        200,
+        680
+      ],
+      "breakdown": "アサヒ (Asahi) means 'morning sun'. カメラ (Kamera) is a loanword for 'camera'. It is the title of a photography magazine."
+    }
+  ],
+  "category": "info",
+  "difficulty": "A2",
+  "where_youd_see_it": "You would see this on a magazine rack in a bookstore or newsstand.",
+  "cultural_note": "Asahi Camera was a prominent Japanese photography magazine, published by Asahi Shimbun Publications from 1926 until its discontinuation in 2020. This issue features Mount Fuji, a very common and iconic subject in Japanese photography and art.",
+  "image_id": "4d4f53e09b2ad989",
+  "language": "ja"
+}

@@ -1,0 +1,61 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Betreten der Eisfläche verboten!",
+      "translation": "Entry to the ice surface forbidden!",
+      "romanization": null,
+      "bbox": [
+        238,
+        203,
+        335,
+        781
+      ],
+      "breakdown": "Betreten (to enter, noun) der (of the, genitive/dative article) Eisfläche (ice surface) verboten (forbidden)."
+    },
+    {
+      "original": "Stadt Burgwedel\nDer Bürgermeister",
+      "translation": "City of Burgwedel\nThe Mayor",
+      "romanization": null,
+      "bbox": [
+        336,
+        477,
+        360,
+        686
+      ],
+      "breakdown": "Stadt (city) Burgwedel (place name) Der (the, masculine nominative article) Bürgermeister (mayor)."
+    },
+    {
+      "original": "Bitte an der Leine führen",
+      "translation": "Please keep on a leash",
+      "romanization": null,
+      "bbox": [
+        492,
+        381,
+        517,
+        616
+      ],
+      "breakdown": "Bitte (please) an der Leine (on the leash) führen (to lead/to keep)."
+    },
+    {
+      "original": "In der Zeit vom 01. April bis 15. Juli (allgemeine Brut-, Setz- und Aufzuchtzeit) müssen Hunde im Wald und in der freien Landschaft an der Leine geführt werden.\nNds. Gesetz über den Wald und die Landschaftsordnung (NWaldLG)",
+      "translation": "From April 1st to July 15th (general breeding, fawning, and rearing season), dogs must be kept on a leash in the forest and in the open countryside.\nLower Saxony Law on Forests and Landscape Management (NWaldLG)",
+      "romanization": null,
+      "bbox": [
+        600,
+        290,
+        760,
+        715
+      ],
+      "breakdown": "In der Zeit (in the time) vom (from the) bis (until) (allgemeine Brut-, Setz- und Aufzuchtzeit) (general breeding, fawning, and rearing season) müssen (must) Hunde (dogs) im Wald (in the forest) und (and) in der freien Landschaft (in the open countryside) an der Leine (on the leash) geführt werden (be led/kept). Nds. Gesetz über den Wald und die Landschaftsordnung (Lower Saxony Law on Forests and Landscape Management)."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would see this sign near a body of water or natural area, providing rules about safety and dog walking.",
+  "cultural_note": "In Germany, there are strict regulations about keeping dogs on a leash, especially during the 'Brut-, Setz- und Aufzuchtzeit' (breeding, fawning, and rearing season) to protect wildlife. Violations can result in fines.",
+  "image_id": "0aee84750a032a4e",
+  "language": "de"
+}

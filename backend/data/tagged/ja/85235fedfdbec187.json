@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "危険! オートウォークのまわりでお子様を遊ばせないようお願いいたします。 イオン東大阪店",
+      "translation": "Danger! Please do not let children play around the autowalk. Aeon Higashi Osaka Store.",
+      "romanization": "Kiken! Ōtowōku no mawari de okosama o asobasenai yō onegai itashimasu. Ion Higashi Osaka-ten",
+      "bbox": [
+        180,
+        715,
+        380,
+        970
+      ],
+      "breakdown": "危険 (kiken): danger. オートウォーク (ōtowōku): autowalk (moving walkway). まわり (mawari): surroundings, around. お子様 (okosama): polite term for child/children. 遊ばせない (asobasenai): negative causative of 遊ぶ (asobu - to play), meaning \"don't let play\". よう (yō): so that, in order to. お願いいたします (onegai itashimasu): polite request, \"we ask of you\". イオン東大阪店 (Ion Higashi Osaka-ten): Name of the store, Aeon Higashi Osaka Store."
+    },
+    {
+      "original": "ご注意！顔や手を手すりの外に出すと大変危険です。ご注意ください。 イオン東大阪店",
+      "translation": "Caution! If you put your face or hands outside the handrail, it is extremely dangerous. Please be careful. Aeon Higashi Osaka Store.",
+      "romanization": "Go-chūi! Kao ya te o tesuri no soto ni dasu to taihen kiken desu. Go-chūi kudasai. Ion Higashi Osaka-ten",
+      "bbox": [
+        450,
+        690,
+        600,
+        970
+      ],
+      "breakdown": "ご注意 (go-chūi): caution, attention (polite prefix ご 'go' + 注意 'chūi'). 顔 (kao): face. 手 (te): hand. 手すり (tesuri): handrail. 外 (soto): outside. 出す (dasu): to put out, to take out. と (to): if, when. 大変 (taihen): extremely, very. 危険 (kiken): danger. です (desu): polite copula (is/are). ご注意ください (go-chūi kudasai): please be careful. イオン東大阪店 (Ion Higashi Osaka-ten): Name of the store, Aeon Higashi Osaka Store."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a warning sign next to an escalator or moving walkway in a large store or shopping mall.",
+  "cultural_note": "Public safety warnings in Japan, even on signs, often use very polite language (like 'onegai itashimasu' and 'go-chūi kudasai') to convey instructions or requests, reflecting a cultural emphasis on courtesy and indirect communication, even when giving a warning.",
+  "image_id": "85235fedfdbec187",
+  "language": "ja"
+}

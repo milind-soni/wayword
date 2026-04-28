@@ -1,0 +1,73 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "German",
+  "regions": [
+    {
+      "original": "Deutsches Reichs-Strafgesetzbuch",
+      "translation": "German Reich Criminal Code",
+      "romanization": null,
+      "bbox": [
+        169,
+        178,
+        203,
+        796
+      ],
+      "breakdown": "'Deutsches' (German) refers to 'Reichs-Strafgesetzbuch'. 'Reichs-' is the genitive form of 'Reich' (empire/realm). 'Strafgesetzbuch' is a compound noun: 'Strafe' (punishment), 'Gesetz' (law), 'Buch' (book)."
+    },
+    {
+      "original": "§ 368 Nr. 5",
+      "translation": "Section 368 No. 5",
+      "romanization": null,
+      "bbox": [
+        308,
+        437,
+        335,
+        555
+      ],
+      "breakdown": "'§' is the symbol for paragraph or section. 'Nr.' is an abbreviation for 'Nummer' (number)."
+    },
+    {
+      "original": "Mit Geldstrafe bis zu DM 60.- oder mit Haft bis zu vierzehn Tagen wird bestraft:",
+      "translation": "Punishable by a fine of up to DM 60.- or imprisonment of up to fourteen days:",
+      "romanization": null,
+      "bbox": [
+        386,
+        68,
+        483,
+        915
+      ],
+      "breakdown": "'Mit Geldstrafe' means 'with a fine'. 'bis zu' means 'up to'. 'DM 60.-' refers to 60 Deutsche Mark (an old German currency). 'oder' means 'or'. 'mit Haft' means 'with imprisonment'. 'vierzehn Tagen' means 'fourteen days' (dative plural). 'wird bestraft' is in the passive voice and means 'is punished' or 'will be punished'."
+    },
+    {
+      "original": "wer Scheunen, Ställe, Böden oder andere Räume, welche zur Aufbewahrung feuerfangender Sachen dienen, mit unverwahrtem Feuer oder Licht*) betritt, oder sich denselben mit unverwahrtem Feuer oder Licht nähert.",
+      "translation": "whoever enters barns, stables, attics, or other rooms which serve for the storage of flammable materials, with unguarded fire or light*), or approaches them with unguarded fire or light.",
+      "romanization": null,
+      "bbox": [
+        530,
+        283,
+        678,
+        917
+      ],
+      "breakdown": "'wer' means 'whoever'. 'Scheunen, Ställe, Böden' are 'barns, stables, attics'. 'welche zur Aufbewahrung feuerfangender Sachen dienen' is a relative clause meaning 'which serve for the storage of flammable materials'. 'mit unverwahrtem Feuer oder Licht' means 'with unguarded fire or light'. 'betritt' means 'enters'. 'sich denselben mit unverwahrtem Feuer oder Licht nähert' means 'approaches them with unguarded fire or light'."
+    },
+    {
+      "original": "*) Nach einer Polizeiverordnung vom 1. 5. 1852 ist das Gegenteil von unverwahrtem Licht eine geschlossene Laterne, so daß also Böden und Keller nur mit geschlossenen Laternen betreten werden dürfen, in welchen aber kein Petroleum gebrannt werden darf. Petroleum-Lampe ist streng verboten.",
+      "translation": "*) According to a police regulation from May 1, 1852, the opposite of unguarded light is a closed lantern, so that attics and cellars may only be entered with closed lanterns, but in which no petroleum may be burned. Petroleum lamps are strictly forbidden.",
+      "romanization": null,
+      "bbox": [
+        723,
+        102,
+        831,
+        888
+      ],
+      "breakdown": "This footnote clarifies the definition of 'unverwahrtes Licht' (unguarded light) based on an old police regulation. It specifies that only closed lanterns are allowed, and even then, no petroleum (kerosene) should be burned in them, with petroleum lamps being strictly forbidden."
+    }
+  ],
+  "category": "bureaucratic",
+  "difficulty": "C1",
+  "where_youd_see_it": "On the wall of a historical building, an old farm, or a museum exhibit in Germany, highlighting past fire safety regulations.",
+  "cultural_note": "This sign is a fascinating historical artifact. It cites the 'Deutsches Reichs-Strafgesetzbuch' (German Imperial Criminal Code) and a police regulation from 1852, indicating its roots in pre-modern German law. However, the mention of 'DM' (Deutsche Mark) means the sign itself, or at least the currency reference, dates from after 1948, when the DM was introduced in West Germany. This suggests the sign might be a reproduction for historical display, or a local notice that updated an old law with contemporary currency. The severe fire safety rules, especially the prohibition of petroleum lamps, reflect the significant fire hazards prevalent in the 19th and early 20th centuries.",
+  "image_id": "0fd927fc3c2800da",
+  "language": "de"
+}

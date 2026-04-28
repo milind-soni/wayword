@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "さぎふかみの路",
+      "translation": "Path of Heron's Depths",
+      "romanization": "Sagi Fukami no Ro",
+      "bbox": [
+        606,
+        301,
+        715,
+        697
+      ],
+      "breakdown": "さぎ (sagi): heron (鷺, though written in hiragana here). ふかみ (fukami): depths, a deep place (深み). の (no): a possessive particle connecting 'heron's depths' to 'path'. 路 (ro): path, road."
+    }
+  ],
+  "category": "info",
+  "difficulty": "A1",
+  "where_youd_see_it": "On a stone monument marking a path in a park or along a waterway.",
+  "cultural_note": "Herons (鷺, sagi) are common birds in Japan, often associated with nature and waterways. The use of hiragana for 'sagi' and 'fukami' instead of kanji can give the name a softer, more traditional, or poetic feel.",
+  "image_id": "06ebfc95752aefe2",
+  "language": "ja"
+}

@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "RICHTUNG LICHTENBERG",
+      "translation": "Towards Lichtenberg",
+      "romanization": null,
+      "bbox": [
+        250,
+        170,
+        450,
+        290
+      ],
+      "breakdown": "Richtung (noun) means 'direction' or 'towards'. Lichtenberg is a proper noun, referring to a district in Berlin. The phrase indicates the destination of a public transport line."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A1",
+  "where_youd_see_it": "You would see this on an old tram or train destination board, likely at a station or depot, or in a museum exhibit.",
+  "cultural_note": "These types of destination boards were common on public transport in Germany before the advent of electronic displays. They were manually changed by the conductor or driver. Lichtenberg is a well-known district in Berlin.",
+  "image_id": "36ac1b40a5c773bc",
+  "language": "de"
+}

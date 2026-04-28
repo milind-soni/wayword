@@ -1,0 +1,61 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "パーラーエノキ",
+      "translation": "Parlor Enoki",
+      "romanization": "Pārā Enoki",
+      "bbox": [
+        279,
+        532,
+        307,
+        630
+      ],
+      "breakdown": "パーラー (pārā) is a loanword for 'parlor' or 'coffee shop'. エノキ (Enoki) is likely the name of the establishment or its owner."
+    },
+    {
+      "original": "焼菓子と珈琲",
+      "translation": "Baked goods and coffee",
+      "romanization": "Yakigashi to kōhī",
+      "bbox": [
+        320,
+        554,
+        337,
+        615
+      ],
+      "breakdown": "焼菓子 (yakigashi) means 'baked goods' or 'pastries'. と (to) is the particle 'and'. 珈琲 (kōhī) is the kanji form for 'coffee'."
+    },
+    {
+      "original": "ほっかどう応援クーポン\n使えます",
+      "translation": "Hokkaido Support Coupons\nUsable",
+      "romanization": "Hokkadō Ōen Kūpon\nTsukaemasu",
+      "bbox": [
+        761,
+        476,
+        814,
+        562
+      ],
+      "breakdown": "ほっかどう (Hokkadō) is an informal shortening of 北海道 (Hokkaido). 応援 (ōen) means 'support' or 'cheer'. クーポン (kūpon) is the loanword for 'coupon'. 使えます (tsukaemasu) means 'can be used' or 'is usable'."
+    },
+    {
+      "original": "シメパフェ",
+      "translation": "Dessert Parfait",
+      "romanization": "Shime Parfait",
+      "bbox": [
+        356,
+        754,
+        450,
+        778
+      ],
+      "breakdown": "シメ (shime) comes from 締める (shimeru), meaning 'to finish' or 'conclude', and here refers to the final dish of a meal. パフェ (pafe) is the loanword for 'parfait'."
+    }
+  ],
+  "category": "food",
+  "difficulty": "B1",
+  "where_youd_see_it": "In a cafe or dessert parlor, likely within a shopping mall or commercial area.",
+  "cultural_note": "The term 'シメパフェ' (shime parfait) refers to the practice of having a parfait as a final dessert after a meal, especially after dinner or drinks, a trend that originated and is particularly popular in Sapporo, Hokkaido. The 'Hokkaido Support Coupons' also suggest a local initiative, linking the establishment to the Hokkaido region.",
+  "image_id": "0920b9b6a3ab7e82",
+  "language": "ja"
+}

@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "「大戸屋」",
+      "translation": "\"Ootoya\"",
+      "romanization": "Ōtoya",
+      "bbox": [
+        380,
+        400,
+        430,
+        550
+      ],
+      "breakdown": "大戸屋 (Ootoya) is the name of a popular Japanese restaurant chain specializing in \"teishoku\" (set meals). The square brackets 「」 are used for quoting names or speech."
+    },
+    {
+      "original": "前は溝の口にもあった。",
+      "translation": "It used to be in Mizoguchi too.",
+      "romanization": "Mae wa Mizoguchi ni mo atta.",
+      "bbox": [
+        450,
+        370,
+        500,
+        630
+      ],
+      "breakdown": "前 (mae) means \"before\" or \"previously.\" は (wa) is a topic particle. 溝の口 (Mizoguchi) is a place name (a district in Kawasaki, Kanagawa). に (ni) is a location particle, \"in/at.\" も (mo) means \"also\" or \"too.\" あった (atta) is the past tense of ある (aru), \"to be\" or \"to exist.\""
+    },
+    {
+      "original": "また出来る と いいな。",
+      "translation": "I hope it can open/be established again.",
+      "romanization": "Mata dekiru to ii na.",
+      "bbox": [
+        520,
+        370,
+        570,
+        630
+      ],
+      "breakdown": "また (mata) means \"again.\" 出来る (dekiru) means \"to be able to do,\" \"to be completed,\" or \"to open/be established.\" と (to) here functions to express a condition or result, leading to the following desire. いい (ii) means \"good.\" な (na) is a sentence-ending particle expressing desire, hope, or a gentle suggestion."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a sidewalk outside a small shop or home, often used as an informal notice board.",
+  "cultural_note": "Ootoya (大戸屋) is a well-known chain of Japanese restaurants serving home-style set meals (teishoku). The phrase 'また～といいな' is a common and gentle way to express a wish or hope in Japanese.",
+  "image_id": "4ab0d4323a04be11",
+  "language": "ja"
+}

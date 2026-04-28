@@ -1,0 +1,61 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "KAMERUN",
+      "translation": "Kamerun (a place name)",
+      "romanization": null,
+      "bbox": [
+        297,
+        438,
+        441,
+        490
+      ],
+      "breakdown": "KAMERUN is a proper noun, referring to a specific place or district, likely a small settlement, within Germany. It's also the German name for the country Cameroon."
+    },
+    {
+      "original": "An de Wehl",
+      "translation": "At the pond / pool (a place name)",
+      "romanization": null,
+      "bbox": [
+        446,
+        439,
+        562,
+        490
+      ],
+      "breakdown": "'An' is a German preposition meaning 'at' or 'on'. 'de' is the Low German (Plattdeutsch) definite article, equivalent to High German 'der/die/das' (the). 'Wehl' is a Low German noun referring to a pond, pool, or sometimes a boggy area."
+    },
+    {
+      "original": "Fährhafen",
+      "translation": "Ferry port",
+      "romanization": null,
+      "bbox": [
+        460,
+        505,
+        510,
+        565
+      ],
+      "breakdown": "This is a compound noun: 'Fähre' (ferry) + 'Hafen' (port). 'Fähr-' is the combining form of 'Fähre'."
+    },
+    {
+      "original": "Kurzentrum",
+      "translation": "Spa center",
+      "romanization": null,
+      "bbox": [
+        515,
+        505,
+        565,
+        565
+      ],
+      "breakdown": "This is a compound noun: 'Kur' (cure, spa treatment) + 'Zentrum' (center). A 'Kurzentrum' is typically a health resort or spa facility."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A2",
+  "where_youd_see_it": "On a road sign directing to local destinations near a ferry port and spa.",
+  "cultural_note": "The place name 'An de Wehl' uses the Low German (Plattdeutsch) dialect, where 'de' is the definite article ('the') instead of High German 'der/die/das'. The name 'Kamerun' for a local place in Germany can be surprising as it's also the German name for the country Cameroon; it's not uncommon for small towns or districts to share names with other famous places.",
+  "image_id": "8b1aebbfa16fb94f",
+  "language": "de"
+}

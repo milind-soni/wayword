@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "お願い",
+      "translation": "Please / Request",
+      "romanization": "Onegai",
+      "bbox": [
+        126,
+        360,
+        206,
+        638
+      ],
+      "breakdown": "お (o-) is an honorific prefix, 願い (negai) is a noun meaning 'wish' or 'request'."
+    },
+    {
+      "original": "通過電車のときは、危険です",
+      "translation": "When a train is passing through, it is dangerous.",
+      "romanization": "Tsūka densha no toki wa, kiken desu",
+      "bbox": [
+        283,
+        142,
+        367,
+        856
+      ],
+      "breakdown": "通過 (tsūka) means 'passage' or 'passing through'; 電車 (densha) means 'train'; のとき (no toki) means 'when'; 危険 (kiken) means 'danger'; です (desu) is a polite copula."
+    },
+    {
+      "original": "手摺をお持ち下さい。",
+      "translation": "Please hold the handrail.",
+      "romanization": "Tesuri o omochi kudasai.",
+      "bbox": [
+        452,
+        194,
+        532,
+        799
+      ],
+      "breakdown": "手摺 (tesuri) means 'handrail'; を (o) is a direct object particle; お持ち下さい (omochi kudasai) is a polite imperative, meaning 'please hold'. お持ち (omochi) is the honorific form of 持つ (motsu - to hold), and 下さい (kudasai) means 'please give' or 'please do'."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a subway or train platform.",
+  "cultural_note": "Many Japanese train stations and platforms have signs like this to ensure passenger safety, especially emphasizing awareness when express or non-stopping trains pass through quickly, which can cause strong winds or suction.",
+  "image_id": "4088e4fb55265807",
+  "language": "ja"
+}

@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Bitte nicht füttern!",
+      "translation": "Please do not feed!",
+      "romanization": null,
+      "bbox": [
+        123,
+        64,
+        425,
+        939
+      ],
+      "breakdown": "Bitte (please) + nicht (not) + füttern (to feed). The infinitive 'füttern' is used as an imperative."
+    },
+    {
+      "original": "Kühe, Rinder, Pferde, Schafe, etc. können dadurch schwer erkranken!",
+      "translation": "Cows, cattle, horses, sheep, etc. can become seriously ill because of it!",
+      "romanization": null,
+      "bbox": [
+        500,
+        420,
+        875,
+        940
+      ],
+      "breakdown": "Kühe (cows), Rinder (cattle), Pferde (horses), Schafe (sheep), etc. (etc.) are plural nouns. Können (can, plural form) + dadurch (because of it/thereby) + schwer (seriously/severely) + erkranken (to become ill)."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "A2",
+  "where_youd_see_it": "You would see this sign on a fence near an animal enclosure, farm, or pasture.",
+  "cultural_note": "In Germany, it is common to see 'Fütterungsverbot' (feeding prohibited) signs. Feeding wild or domestic animals without permission is generally discouraged due to concerns for animal health, safety, and preventing them from becoming dependent on humans.",
+  "image_id": "2105ea13113bf7d4",
+  "language": "de"
+}

@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Hör-Studio",
+      "translation": "Hearing Studio",
+      "romanization": null,
+      "bbox": [
+        98,
+        80,
+        253,
+        679
+      ],
+      "breakdown": "Hör- (from 'hören' - to hear, related to hearing) + Studio (studio). It's a compound noun for a business specializing in hearing."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "A1",
+  "where_youd_see_it": "You would see this sign outside a shop that sells hearing aids or provides audiology services.",
+  "cultural_note": "German frequently uses compound nouns, often hyphenated or combined directly, to create precise terms, such as 'Hör-Studio' for a hearing aid or audiology center. The umlaut (¨) over the 'o' in 'Hör' is a common feature of German spelling.",
+  "image_id": "65a8820eca5ba5a0",
+  "language": "de"
+}

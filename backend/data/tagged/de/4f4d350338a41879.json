@@ -1,0 +1,73 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Bahnhof Edelfingen",
+      "translation": "Edelfingen Station",
+      "romanization": null,
+      "bbox": [
+        54,
+        303,
+        107,
+        706
+      ],
+      "breakdown": "Das Wort \"Bahnhof\" bedeutet \"train station\". \"Edelfingen\" ist ein Ortsname."
+    },
+    {
+      "original": "1864 wurde der Staatsvertrag zwischen dem Königreich Württemberg und dem Großherzogtum Baden über die Herstellung einer Eisenbahnlinie von Lauda - Königshofen nach Bad Mergentheim geschlossen.",
+      "translation": "In 1864, the state treaty between the Kingdom of Württemberg and the Grand Duchy of Baden concerning the construction of a railway line from Lauda - Königshofen to Bad Mergentheim was concluded.",
+      "romanization": null,
+      "bbox": [
+        141,
+        75,
+        292,
+        929
+      ],
+      "breakdown": "\"wurde...geschlossen\" ist die Passivform und bedeutet \"was concluded\". \"Staatsvertrag\" (state treaty). \"Königreich\" (kingdom) und \"Großherzogtum\" (grand duchy) sind historische Staatsformen. \"Herstellung\" (construction/production), \"Eisenbahnlinie\" (railway line)."
+    },
+    {
+      "original": "Im Oktober 1867 wurde die \"Tauberthalbahn\" eröffnet, 1869 wude der Bahnhof erbaut.",
+      "translation": "In October 1867, the \"Tauber Valley Railway\" was opened, and in 1869 the station was built.",
+      "romanization": null,
+      "bbox": [
+        346,
+        75,
+        461,
+        926
+      ],
+      "breakdown": "\"Im Oktober\" (in October). \"wurde eröffnet\" (was opened). \"erbaut\" (built, constructed). Es gibt einen Tippfehler im Original: \"wude\" sollte \"wurde\" sein. \"Tauberthalbahn\" ist der Name einer Eisenbahnlinie."
+    },
+    {
+      "original": "Bis 1993 war er als Empfangsgebäude der Bundesbahn in Betrieb. 1994/1995 wurde er zu seiner heutigen Nutzung umgebaut.",
+      "translation": "Until 1993, it was in operation as the reception building of the Federal Railway. In 1994/1995, it was converted for its current use.",
+      "romanization": null,
+      "bbox": [
+        509,
+        75,
+        638,
+        929
+      ],
+      "breakdown": "\"Bis\" (until). \"Empfangsgebäude\" (reception building, often referring to a station building). \"Bundesbahn\" (Federal Railway, a former state-owned railway company in Germany). \"in Betrieb\" (in operation). \"wurde umgebaut\" (passive voice, was converted/rebuilt). \"heutigen Nutzung\" (current use)."
+    },
+    {
+      "original": "Architektenkammer Baden-Württemberg\nAusgezeichnet\nfür\nBeispielhaftes Bauen",
+      "translation": "Chamber of Architects Baden-Württemberg\nAwarded\nfor\nExemplary Building",
+      "romanization": null,
+      "bbox": [
+        767,
+        458,
+        867,
+        563
+      ],
+      "breakdown": "\"Architektenkammer\" (Chamber of Architects). \"Baden-Württemberg\" ist ein deutsches Bundesland. \"Ausgezeichnet\" (awarded, distinguished). \"Beispielhaftes Bauen\" (exemplary construction/building). Dies ist eine Auszeichnung für Architektur."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "B2",
+  "where_youd_see_it": "You would see this on a historical plaque at a former train station in Germany.",
+  "cultural_note": "The mention of \"Königreich Württemberg\" and \"Großherzogtum Baden\" reflects Germany's historical political landscape before its unification. The \"Bundesbahn\" was the federal railway company of West Germany until 1994, which later became Deutsche Bahn.",
+  "image_id": "4f4d350338a41879",
+  "language": "de"
+}

@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "陣見山・天間山\n新道 8.0km\n旧道 8.1km",
+      "translation": "Mount Jinmi / Mount Tenma\nNew Route 8.0km\nOld Route 8.1km",
+      "romanization": "Jinmi-san / Tenma-san\nShintō 8.0km\nKyūdō 8.1km",
+      "bbox": [
+        540,
+        190,
+        710,
+        480
+      ],
+      "breakdown": "陣見山 (Jinmi-san): Mount Jinmi (a mountain name).\n天間山 (Tenma-san): Mount Tenma (a mountain name).\n新道 (shintō): new path or route.\n旧道 (kyūdō): old path or route.\nkm (kilo-mētoru): kilometer, a unit of distance."
+    },
+    {
+      "original": "三国山・塞藤山\n0.9km",
+      "translation": "Mount Mikuni / Mount Saitō\n0.9km",
+      "romanization": "Mikuni-yama / Saitō-yama\n0.9km",
+      "bbox": [
+        560,
+        500,
+        660,
+        780
+      ],
+      "breakdown": "三国山 (Mikuni-yama): Mount Mikuni (a mountain name).\n塞藤山 (Saitō-yama): Mount Saitō (a mountain name).\nkm (kilo-mētoru): kilometer, a unit of distance."
+    },
+    {
+      "original": "白嶽環境保全区域\n許可なく廃棄禁ず\n東京都",
+      "translation": "Shiradake Environmental Protection Area\nDisposal without permission prohibited\nTokyo Metropolitan Government",
+      "romanization": "Shiradake Kankyō Hozen Kuiki\nKyoka naku haiki kinzu\nTōkyō-to",
+      "bbox": [
+        180,
+        740,
+        320,
+        900
+      ],
+      "breakdown": "白嶽 (Shiradake): Shiradake (a place name, likely a mountain or area).\n環境 (kankyō): environment.\n保全 (hozen): preservation, conservation.\n区域 (kuiki): area, zone.\n許可なく (kyoka naku): without permission. 許可 (kyoka) means permission, なく (naku) indicates 'without.'\n廃棄 (haiki): disposal, discard.\n禁ず (kinzu): to prohibit (a classical/formal verb ending).\n東京都 (Tōkyō-to): Tokyo Metropolitan Government (an administrative division)."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "B2",
+  "where_youd_see_it": "On a hiking trail in a mountainous area of Japan.",
+  "cultural_note": "Japan is known for its extensive network of hiking trails. Trail signs like these are common, providing essential navigation information, often including different routes (new and old) and distances to various peaks. Environmental protection notices are also prevalent in natural areas, emphasizing the importance of preserving the local ecosystem.",
+  "image_id": "202fc1122adc960b",
+  "language": "ja"
+}

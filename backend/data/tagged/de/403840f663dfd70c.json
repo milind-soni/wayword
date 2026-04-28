@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "ACHTUNG!\nExplosionsgefahr\nVor jedem Anzünden\nFeuerzüge gut durchlüften\nDEUTSCHE WERFT\nHAMBURG",
+      "translation": "ATTENTION!\nRisk of explosion\nBefore every ignition\nventilate flues well\nGERMAN SHIPYARD\nHAMBURG",
+      "romanization": null,
+      "bbox": [
+        50,
+        250,
+        200,
+        430
+      ],
+      "breakdown": "- \"Achtung!\": \"Attention!\" or \"Warning!\"\n- \"Explosionsgefahr\": Compound noun from \"Explosion\" (explosion) and \"Gefahr\" (danger/risk).\n- \"Vor jedem Anzünden\": \"Vor\" (before) + \"jedem\" (every, dative singular of \"jeder/jedes\") + \"Anzünden\" (ignition, noun derived from the verb \"anzünden\" - to light/ignite).\n- \"Feuerzüge\": Compound noun from \"Feuer\" (fire) and \"Züge\" (here: flues, passages; lit. \"trains\" or \"draughts\"). Refers to the exhaust passages for fire.\n- \"gut\": \"well\" or \"thoroughly.\"\n- \"durchlüften\": Separable verb meaning \"to ventilate\" or \"to air out thoroughly.\"\n- \"Deutsche Werft Hamburg\": Name of the manufacturer, \"German Shipyard Hamburg.\""
+    }
+  ],
+  "category": "warning",
+  "difficulty": "B2",
+  "where_youd_see_it": "You would see this sign on industrial machinery, likely a boiler or furnace, in a factory or ship's engine room.",
+  "cultural_note": "Deutsche Werft Hamburg was a prominent German shipbuilding company established in 1918 in Hamburg, known for constructing a variety of vessels, including cargo ships, tankers, and even submarines, before merging and eventually ceasing operations under that name in the late 20th century.",
+  "image_id": "403840f663dfd70c",
+  "language": "de"
+}

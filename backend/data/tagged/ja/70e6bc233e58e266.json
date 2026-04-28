@@ -1,0 +1,12 @@
+{
+  "usable": false,
+  "reject_reason": "no text",
+  "language_detected": "undetermined",
+  "regions": [],
+  "category": "transit",
+  "difficulty": "A1",
+  "where_youd_see_it": "At a railway crossing.",
+  "cultural_note": "While this sign is a universal symbol for a railway crossing, Japanese signs often include text like '止まれ見よ' (Tomare miyo - Stop, Look) or '一時停止' (Ichiji teishi - Temporary Stop) either on the sign itself or painted on the road.",
+  "image_id": "70e6bc233e58e266",
+  "language": "ja"
+}

@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "DB",
+      "translation": "German Railways",
+      "romanization": null,
+      "bbox": [
+        37,
+        725,
+        71,
+        786
+      ],
+      "breakdown": "Acronym for Deutsche Bahn, the German national railway company."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A1",
+  "where_youd_see_it": "Near railway tracks, train stations, or on railway infrastructure in Germany.",
+  "cultural_note": "DB stands for Deutsche Bahn, Germany's national railway company, which operates most of the country's railway system.",
+  "image_id": "41543b4b946ee972",
+  "language": "de"
+}

@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "積載 400kgまで",
+      "translation": "Load capacity up to 400kg",
+      "romanization": "Sekisai yonhyakukiro made",
+      "bbox": [
+        460,
+        400,
+        570,
+        430
+      ],
+      "breakdown": "積載 (sekisai) means 'loading' or 'load capacity'. 400kg is '400 kilograms'. まで (made) means 'up to' or 'until'."
+    },
+    {
+      "original": "ドア開口時に手を触れないで下さい。",
+      "translation": "Please do not touch when the door is open.",
+      "romanization": "Doa kaikōji ni te wo furenai de kudasai.",
+      "bbox": [
+        465,
+        575,
+        735,
+        605
+      ],
+      "breakdown": "ドア (doa) is 'door'. 開口時 (kaikōji) means 'at the time of opening'. 手を触れないで (te wo furenai de) is the negative imperative for 'to touch hands'. 下さい (kudasai) means 'please'."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "B1",
+  "where_youd_see_it": "On an access panel, lift, or moving platform within a building, indicating safety precautions and load limits.",
+  "cultural_note": "Japanese safety signage is very thorough, often including both maximum load warnings and specific instructions like 'do not touch' to prevent accidents, even on seemingly simple mechanisms.",
+  "image_id": "312c98f640a6e188",
+  "language": "ja"
+}

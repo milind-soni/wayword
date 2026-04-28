@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "ラジオセンター",
+      "translation": "Radio Center",
+      "romanization": "Rajio Sentā",
+      "bbox": [
+        10,
+        240,
+        150,
+        760
+      ],
+      "breakdown": "ラジオ (rajio) is a loanword for 'radio'. センター (sentā) is a loanword for 'center'."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "A1",
+  "where_youd_see_it": "You would see this on the facade of a large building, likely an electronics or hobby store.",
+  "cultural_note": "Akihabara, often referred to as 'Akiba,' is famously known as an electronics district and a hub for anime, manga, and video game culture. The neon sign and robotic imagery strongly evoke the vibrant and futuristic atmosphere of Akihabara's shops.",
+  "image_id": "3775a317249368fd",
+  "language": "ja"
+}

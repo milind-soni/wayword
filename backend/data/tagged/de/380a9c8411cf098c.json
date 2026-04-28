@@ -1,0 +1,73 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "ESCOM 2001 PRÄSENTIERT",
+      "translation": "ESCOM 2001 PRESENTS",
+      "romanization": null,
+      "bbox": [
+        263,
+        442,
+        381,
+        703
+      ],
+      "breakdown": "PRÄSENTIERT is the third-person singular present form of 'präsentieren' (to present)."
+    },
+    {
+      "original": "Erobern Sie die ganze Welt!",
+      "translation": "Conquer the whole world!",
+      "romanization": null,
+      "bbox": [
+        283,
+        130,
+        312,
+        364
+      ],
+      "breakdown": "'Erobern' (to conquer/discover), 'Sie' (you, formal), 'die ganze Welt' (the whole world)."
+    },
+    {
+      "original": "Die neue ESCOM 2001!",
+      "translation": "The new ESCOM 2001!",
+      "romanization": null,
+      "bbox": [
+        341,
+        585,
+        410,
+        872
+      ],
+      "breakdown": "'Die' (the, feminine nominative), 'neue' (new, adjective with feminine ending), 'ESCOM 2001' (product/company name)."
+    },
+    {
+      "original": "D-Netz: Ab 19,- Grundgebühr!",
+      "translation": "D-Network: From 19,- basic fee!",
+      "romanization": null,
+      "bbox": [
+        419,
+        787,
+        507,
+        963
+      ],
+      "breakdown": "'D-Netz' (D-network, a mobile phone network type), 'Ab' (from), 'Grundgebühr' (basic fee)."
+    },
+    {
+      "original": "Fotodruck am Feinsten.",
+      "translation": "Finest photo printing.",
+      "romanization": null,
+      "bbox": [
+        429,
+        560,
+        468,
+        703
+      ],
+      "breakdown": "'Fotodruck' (photo printing), 'am Feinsten' (at its finest, superlative of 'fein' - fine)."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "A2",
+  "where_youd_see_it": "In a shop window of an electronics or computer store advertising products and services.",
+  "cultural_note": "The term 'D-Netz' refers to specific mobile phone networks in Germany (like D1 and D2), historically distinguished from 'E-Netz'. The price format '19,-' is common to indicate a price in whole Euros without cents, or sometimes with the dash implying ',00'.",
+  "image_id": "380a9c8411cf098c",
+  "language": "de"
+}

@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "パンと和洋菓子",
+      "translation": "Bread and Japanese/Western Confectionery",
+      "romanization": "Pan to wayougashi",
+      "bbox": [
+        70,
+        483,
+        137,
+        792
+      ],
+      "breakdown": "パン (pan) - bread (loanword); と (to) - and; 和洋菓子 (wayougashi) - Japanese (和, wa) and Western (洋, you) confectionery (菓子, gashi)."
+    },
+    {
+      "original": "小尾ベーカリー",
+      "translation": "Obi Bakery",
+      "romanization": "Obi Beekarii",
+      "bbox": [
+        137,
+        483,
+        220,
+        792
+      ],
+      "breakdown": "小尾 (Obi) - a family name; ベーカリー (beekarii) - bakery (loanword)."
+    },
+    {
+      "original": "この夏、絶対当たる！ サントリー飲料 2022年夏の絶対もらえるキャンペーン",
+      "translation": "This summer, definitely win! Suntory Beverages Summer 2022 'Absolutely Get' Campaign",
+      "romanization": "Kono natsu, zettai ataru! Santorii inryou nisen-nijuuni-nen natsu no zettai moraeru kyanpeen",
+      "bbox": [
+        507,
+        379,
+        537,
+        608
+      ],
+      "breakdown": "この夏 (kono natsu) - this summer; 絶対 (zettai) - absolutely, definitely; 当たる (ataru) - to hit, to win (a prize); サントリー飲料 (Santorii inryou) - Suntory Beverages; 2022年 (nisen-nijuuni-nen) - year 2022; 夏 (natsu) - summer; の (no) - possessive particle; 絶対もらえる (zettai moraeru) - absolutely get; キャンペーン (kyanpeen) - campaign (loanword)."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a shop sign and vending machine in a Japanese street.",
+  "cultural_note": "Vending machines are ubiquitous in Japan, offering a wide variety of drinks. Many bakeries and confectionery shops in Japan offer both traditional Japanese sweets (wagashi) and Western-style pastries (yogashi).",
+  "image_id": "426834a54c1d3faf",
+  "language": "ja"
+}

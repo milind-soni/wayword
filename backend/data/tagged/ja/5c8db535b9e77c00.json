@@ -1,0 +1,157 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "熊谷",
+      "translation": "Kumagaya",
+      "romanization": "Kumagaya",
+      "bbox": [
+        28,
+        305,
+        80,
+        480
+      ],
+      "breakdown": "熊谷 (Kumagaya) is a city name in Saitama Prefecture. This part of the sign indicates a direction to Kumagaya."
+    },
+    {
+      "original": "上尾",
+      "translation": "Ageo",
+      "romanization": "Ageo",
+      "bbox": [
+        28,
+        520,
+        80,
+        680
+      ],
+      "breakdown": "上尾 (Ageo) is a city name in Saitama Prefecture. This part of the sign indicates a direction to Ageo."
+    },
+    {
+      "original": "新大宮バイパス",
+      "translation": "Shin-omiya By-pass",
+      "romanization": "Shin-ōmiya Baipasu",
+      "bbox": [
+        122,
+        270,
+        155,
+        480
+      ],
+      "breakdown": "新 (shin) = new, 大宮 (Ōmiya) = city name, バイパス (baipasu) = bypass (a loanword). This indicates the Shin-omiya Bypass road."
+    },
+    {
+      "original": "浦和駅",
+      "translation": "Urawa Station",
+      "romanization": "Urawa Eki",
+      "bbox": [
+        122,
+        520,
+        155,
+        680
+      ],
+      "breakdown": "浦和 (Urawa) is a city name, 駅 (eki) = station. This indicates a direction to Urawa Station."
+    },
+    {
+      "original": "150m",
+      "translation": "150m",
+      "romanization": null,
+      "bbox": [
+        205,
+        540,
+        235,
+        610
+      ],
+      "breakdown": "This indicates a distance of 150 meters."
+    },
+    {
+      "original": "車にも乗せようマナーと 思いやり",
+      "translation": "Let's also bring manners and consideration into cars.",
+      "romanization": "Kuruma ni mo noseyō manā to omoiyari",
+      "bbox": [
+        430,
+        310,
+        490,
+        710
+      ],
+      "breakdown": "車 (kuruma) = car, にも (ni mo) = to also, 乗せよう (noseyō) = let's put/bring (volitional form of 乗せる), マナー (manā) = manners (loanword), と (to) = and, 思いやり (omoiyari) = consideration/compassion. This is a public service message promoting safe and considerate driving."
+    },
+    {
+      "original": "彩の国 交通安全運動実施本部",
+      "translation": "Sainokuni Traffic Safety Campaign Headquarters",
+      "romanization": "Sainokuni Kōtsū Anzen Undō Jisshi Honbu",
+      "bbox": [
+        495,
+        380,
+        520,
+        630
+      ],
+      "breakdown": "彩の国 (Sainokuni) is a nickname for Saitama Prefecture. 交通 (kōtsū) = traffic, 安全 (anzen) = safety, 運動 (undō) = campaign/movement, 実施 (jisshi) = implementation, 本部 (honbu) = headquarters. This identifies the organization behind the safety campaign."
+    },
+    {
+      "original": "消防庁舎入口",
+      "translation": "Fire station entrance",
+      "romanization": "Shōbō Chōsha Iriguchi",
+      "bbox": [
+        910,
+        205,
+        940,
+        290
+      ],
+      "breakdown": "消防 (shōbō) = firefighting, 庁舎 (chōsha) = government building/office, 入口 (iriguchi) = entrance. This indicates the entrance to a fire station."
+    },
+    {
+      "original": "進入禁止",
+      "translation": "No Entry / Do Not Enter",
+      "romanization": "Shinnyū Kinshi",
+      "bbox": [
+        950,
+        205,
+        980,
+        290
+      ],
+      "breakdown": "進入 (shinnyū) = entry/intrusion, 禁止 (kinshi) = prohibition. This is a common warning sign."
+    },
+    {
+      "original": "税金相談受付中",
+      "translation": "Tax consultation accepted / Now open for tax consultations",
+      "romanization": "Zeikin Sōdan Uketsuke-chū",
+      "bbox": [
+        43,
+        670,
+        75,
+        870
+      ],
+      "breakdown": "税金 (zeikin) = tax, 相談 (sōdan) = consultation, 受付中 (uketsuke-chū) = currently accepting/open for. This sign indicates that tax consultation services are available at this location."
+    },
+    {
+      "original": "理士法人",
+      "translation": "Tax Accountant Corporation",
+      "romanization": "Rishihōjin",
+      "bbox": [
+        43,
+        560,
+        75,
+        660
+      ],
+      "breakdown": "理士 (rishi) is part of 税理士 (zeirishi), meaning tax accountant. 法人 (hōjin) = corporation. This indicates a professional corporation, likely for tax accountants, complementing the 'tax consultation' sign."
+    },
+    {
+      "original": "常盤(南)歩道橋",
+      "translation": "Tokiwa (South) Pedestrian Bridge",
+      "romanization": "Tokiwa (Minami) Hodōkyō",
+      "bbox": [
+        660,
+        390,
+        680,
+        500
+      ],
+      "breakdown": "常盤 (Tokiwa) = place name, (南) (Minami) = South, 歩道橋 (hodōkyō) = pedestrian bridge. This is the name of the pedestrian bridge."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a street in a Japanese city, with a large overhead road sign and a public service announcement banner on a pedestrian bridge.",
+  "cultural_note": "The yellow banner's mention of 'Sainokuni' (彩の国) is a common, poetic nickname for Saitama Prefecture, meaning 'Colorful Country' or 'Land of Color.' The emphasis on 'manners and consideration' (マナーと 思いやり) in public service announcements reflects a strong cultural value placed on harmony and civic responsibility in Japan.",
+  "image_id": "5c8db535b9e77c00",
+  "language": "ja"
+}

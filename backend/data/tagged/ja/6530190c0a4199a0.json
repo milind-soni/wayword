@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "あだたら高原・岳温泉",
+      "translation": "Adatara Highlands / Dake Onsen",
+      "romanization": "Adatara Kōgen / Dake Onsen",
+      "bbox": [
+        490,
+        400,
+        550,
+        610
+      ],
+      "breakdown": "あだたら (Adatara) is a place name (a mountain/highland area). 高原 (Kōgen) means highlands or plateau. ・ (Nakaguro/interpunct) separates elements. 岳 (Dake) means peak or mountain (often used in place names). 温泉 (Onsen) means hot spring. Together, it refers to the Adatara Highlands and Dake Hot Spring area."
+    },
+    {
+      "original": "チョコク共和国",
+      "translation": "Chocoku Republic",
+      "romanization": "Chokoku Kyōwakoku",
+      "bbox": [
+        570,
+        310,
+        780,
+        690
+      ],
+      "breakdown": "チョコク (Chokoku) is written in Katakana, suggesting a foreign origin or a playful, made-up word, possibly related to 'chocolate' or a similar concept. 共和国 (Kyōwakoku) means republic. Together, 'Chocoku Republic' sounds like a whimsical, fictional nation, likely a branding or promotional concept."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would likely see this flag at a tourist information center, souvenir shop, or a local event promoting the Adatara Highlands or Dake Onsen area in Japan.",
+  "cultural_note": "Adatara Highlands and Dake Onsen are well-known tourist destinations in Fukushima Prefecture, famous for their natural beauty and hot springs. The 'Chocoku Republic' is a playful branding strategy, common in Japanese regional tourism, often featuring a mascot (like the squirrel here) to create a unique and memorable identity for a local area or product.",
+  "image_id": "6530190c0a4199a0",
+  "language": "ja"
+}

@@ -1,0 +1,85 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "ACHTUNG",
+      "translation": "ATTENTION",
+      "romanization": null,
+      "bbox": [
+        156,
+        242,
+        236,
+        713
+      ],
+      "breakdown": "Noun meaning 'attention' or 'warning'."
+    },
+    {
+      "original": "LEBENSGEFAHR !",
+      "translation": "DANGER TO LIFE!",
+      "romanization": null,
+      "bbox": [
+        236,
+        271,
+        299,
+        687
+      ],
+      "breakdown": "Compound noun: 'Leben' (life) + 'Gefahr' (danger)."
+    },
+    {
+      "original": "MOORSCHLAMMBECKEN",
+      "translation": "PEAT MUD BASINS",
+      "romanization": null,
+      "bbox": [
+        306,
+        200,
+        368,
+        760
+      ],
+      "breakdown": "Compound noun: 'Moor' (moor/peat) + 'Schlamm' (mud) + 'Becken' (basin/pool)."
+    },
+    {
+      "original": "BETRETEN VERBOTEN",
+      "translation": "ENTRY FORBIDDEN",
+      "romanization": null,
+      "bbox": [
+        378,
+        226,
+        434,
+        729
+      ],
+      "breakdown": "Participle 'betreten' (to step on/enter) + adjective 'verboten' (forbidden). A common phrase for 'no trespassing'."
+    },
+    {
+      "original": "ELTERN HAFTEN FÜR IHRE KINDER",
+      "translation": "PARENTS ARE LIABLE FOR THEIR CHILDREN",
+      "romanization": null,
+      "bbox": [
+        451,
+        247,
+        486,
+        716
+      ],
+      "breakdown": "'Eltern' (parents, noun) + 'haften' (to be liable, verb) + 'für' (for, preposition) + 'ihre' (their, possessive pronoun) + 'Kinder' (children, noun)."
+    },
+    {
+      "original": "KURBETRIEBSGESELLSCHAFT M. B. H.",
+      "translation": "SPA OPERATING COMPANY LTD.",
+      "romanization": null,
+      "bbox": [
+        507,
+        263,
+        534,
+        710
+      ],
+      "breakdown": "Compound noun: 'Kurbetriebsgesellschaft' (Kurbetrieb: spa operation, Gesellschaft: company) + 'M.B.H.' (Mit beschränkter Haftung - limited liability company)."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would see this sign in a natural area, likely near a bog or peatland in Germany, warning of danger.",
+  "cultural_note": "The phrase 'Eltern haften für ihre Kinder' (Parents are liable for their children) is a common legal disclaimer found on German warning signs, emphasizing parental responsibility.",
+  "image_id": "7492dc2f82ac04a4",
+  "language": "de"
+}

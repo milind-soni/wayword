@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Bitte Tür schließen",
+      "translation": "Please close door",
+      "romanization": null,
+      "bbox": [
+        388,
+        395,
+        445,
+        755
+      ],
+      "breakdown": "'Bitte' is 'please', a common polite softener. 'Tür' (door) is a feminine noun, hence capitalized. 'schließen' is the infinitive form of the verb 'to close', used here as an imperative on a sign."
+    }
+  ],
+  "category": "info",
+  "difficulty": "A1",
+  "where_youd_see_it": "You would typically see this sign on a door, gate, or fence, reminding people to close it.",
+  "cultural_note": "German signs often use the infinitive form of a verb for commands, making them concise. Adding 'Bitte' (please) makes the instruction polite rather than a strict order.",
+  "image_id": "58d7841c52530665",
+  "language": "de"
+}

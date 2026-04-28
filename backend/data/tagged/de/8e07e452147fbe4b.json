@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Betreten der Gleisanlagen verboten\nEltern haften für ihre Kinder\nRegio Infra-Service\nSachsen GmbH",
+      "translation": "Entering the track area forbidden\nParents are liable for their children\nRegio Infra-Service\nSaxony LLC",
+      "romanization": null,
+      "bbox": [
+        90,
+        160,
+        370,
+        335
+      ],
+      "breakdown": "'Betreten' (entering) is a noun derived from the verb 'betreten' (to enter). 'Gleisanlagen' is a compound noun meaning 'track facilities' or 'track area'. 'verboten' means 'forbidden'. 'Eltern' means 'parents'. 'haften für' means 'to be liable for' or 'to be responsible for'. 'ihre Kinder' means 'their children'. 'Regio Infra-Service Sachsen GmbH' is the name of the operating company; 'GmbH' stands for 'Gesellschaft mit beschränkter Haftung' (Limited Liability Company)."
+    },
+    {
+      "original": "Stollberg (Sachs)",
+      "translation": "Stollberg (Saxony)",
+      "romanization": null,
+      "bbox": [
+        460,
+        470,
+        500,
+        640
+      ],
+      "breakdown": "'Stollberg' is the name of the train station. '(Sachs)' is an abbreviation for 'Sachsen' (Saxony), indicating the German state where Stollberg is located to differentiate it from other places with similar names."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would see this sign at a train station platform, warning passengers to stay off the tracks.",
+  "cultural_note": "The abbreviation 'GmbH' (Gesellschaft mit beschränkter Haftung) is common in Germany for limited liability companies, similar to 'LLC' in English-speaking countries. The explicit warning about parental liability highlights the importance of supervision in potentially dangerous areas in Germany. The parenthetical '(Sachs)' is a common way to distinguish places with the same name located in different regions.",
+  "image_id": "8e07e452147fbe4b",
+  "language": "de"
+}

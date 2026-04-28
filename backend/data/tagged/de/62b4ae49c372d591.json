@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Miteinander den Tag erleben!",
+      "translation": "Experience the day together!",
+      "romanization": null,
+      "bbox": [
+        530,
+        230,
+        560,
+        440
+      ],
+      "breakdown": "'Miteinander' means 'together'. 'den Tag' is 'the day' (accusative case). 'erleben' means 'to experience'."
+    },
+    {
+      "original": "Das Land vor unserer Haustür!",
+      "translation": "The land on our doorstep!",
+      "romanization": null,
+      "bbox": [
+        565,
+        230,
+        580,
+        430
+      ],
+      "breakdown": "'Das Land' means 'the land'. 'vor' means 'in front of' or 'on'. 'unserer' is 'our' (dative feminine, agreeing with 'Haustür'). 'Haustür' means 'front door' or 'doorstep'."
+    }
+  ],
+  "category": "info",
+  "difficulty": "A2",
+  "where_youd_see_it": "You would see this sign on a fence or public board, often promoting local events, initiatives, or regional tourism.",
+  "cultural_note": "The phrase 'Das Land vor unserer Haustür' is a common idiom in German, meaning the immediate local area or region. It evokes a sense of local pride and encourages exploring nearby places. The sign also appears to promote togetherness ('Miteinander').",
+  "image_id": "62b4ae49c372d591",
+  "language": "de"
+}

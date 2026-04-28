@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "German",
+  "regions": [
+    {
+      "original": "Zutritt für Unbefugte verboten",
+      "translation": "Access forbidden for unauthorized persons",
+      "romanization": null,
+      "bbox": [
+        98,
+        380,
+        358,
+        620
+      ],
+      "breakdown": "Zutritt: access (noun); für: for (preposition); Unbefugte: unauthorized persons (noun, plural, dative); verboten: forbidden (past participle, adjective)"
+    },
+    {
+      "original": "Betreten der Bahnanlage verboten!",
+      "translation": "Entering the railway premises forbidden!",
+      "romanization": null,
+      "bbox": [
+        410,
+        360,
+        675,
+        630
+      ],
+      "breakdown": "Betreten: entering (nominalized infinitive); der: of the (definite article, genitive feminine singular); Bahnanlage: railway premises/facility (compound noun, Bahn + Anlage); verboten: forbidden (past participle, adjective)"
+    }
+  ],
+  "category": "warning",
+  "difficulty": "B1",
+  "where_youd_see_it": "At the entrance to a restricted area, such as railway tracks or private industrial property.",
+  "cultural_note": "In Germany, signs prohibiting access are very common on private property, construction sites, and dangerous areas, reflecting a strong emphasis on safety and property rights. The use of 'verboten' is a clear and direct prohibition.",
+  "image_id": "566ff302494b0223",
+  "language": "de"
+}

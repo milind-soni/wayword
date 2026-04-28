@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Arzt",
+      "translation": "Doctor",
+      "romanization": null,
+      "bbox": [
+        616,
+        370,
+        783,
+        631
+      ],
+      "breakdown": "The word \"Arzt\" is a masculine noun meaning \"doctor\" or \"physician\" in German."
+    },
+    {
+      "original": "Transparent für Aerzte.",
+      "translation": "Banner/Sign for Doctors.",
+      "romanization": null,
+      "bbox": [
+        878,
+        280,
+        937,
+        801
+      ],
+      "breakdown": "\"Transparent\" in this context means a \"banner\" or \"sign\". \"Für\" is a preposition meaning \"for\". \"Aerzte\" is an older spelling of \"Ärzte\", which is the plural of \"Arzt\" (doctor)."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would see this on a sign or banner indicating a doctor's presence, an official medical establishment, or a medical service.",
+  "cultural_note": "The spelling 'Aerzte' is an older form of 'Ärzte' (doctors). In German, the umlaut (ä, ö, ü) can be written as 'ae', 'oe', 'ue' when the umlaut character is unavailable, but 'Ärzte' is the modern standard. The word 'Transparent' in this historical context refers to a banner or sign, rather than its modern English meaning of 'transparent' or a transparency sheet.",
+  "image_id": "4a764966adf99eb4",
+  "language": "de"
+}

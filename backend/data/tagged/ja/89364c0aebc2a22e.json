@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "あぶない!!",
+      "translation": "Watch out!!",
+      "romanization": "Abunai!!",
+      "bbox": [
+        80,
+        290,
+        320,
+        620
+      ],
+      "breakdown": "あぶない (abunai) is an i-adjective meaning 'dangerous'. The exclamation marks emphasize urgency."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "A1",
+  "where_youd_see_it": "On a train platform or near train tracks to warn passengers of danger.",
+  "cultural_note": "This style of cartoonish warning sign is common in Japan, particularly in public transit areas, designed to be highly visible and convey a quick, impactful message. They often use bold colors and dramatic imagery.",
+  "image_id": "89364c0aebc2a22e",
+  "language": "ja"
+}

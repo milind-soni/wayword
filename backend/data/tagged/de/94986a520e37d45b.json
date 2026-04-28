@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "HERBERGSKOPF W.",
+      "translation": "Herbergskopf West",
+      "romanization": null,
+      "bbox": [
+        480,
+        150,
+        570,
+        870
+      ],
+      "breakdown": "\"Herbergskopf\" is a German compound noun, likely a place name referring to a hill or mountain. It combines \"Herberge\" (inn, lodging) and \"Kopf\" (head, summit). \"W.\" is a common abbreviation for \"West\" (west) in directions."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A2",
+  "where_youd_see_it": "You would see this sign on a hiking trail in a forest, indicating a direction to a geographic location.",
+  "cultural_note": "German trail signs often use compound nouns for place names and abbreviations like 'W.' for 'West' or 'Weg' (path/way) to save space.",
+  "image_id": "94986a520e37d45b",
+  "language": "de"
+}

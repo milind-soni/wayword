@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Züge\nin Richtung\nŚwinoujście Centrum",
+      "translation": "Trains\ntowards\nŚwinoujście Center",
+      "romanization": null,
+      "bbox": [
+        293,
+        203,
+        606,
+        737
+      ],
+      "breakdown": "Züge: plural of 'Zug' (train). in Richtung: towards. Świnoujście Centrum: Świnoujście Center (Świnoujście is a Polish city)."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A1",
+  "where_youd_see_it": "You would see this at a train station platform, indicating the destination of trains.",
+  "cultural_note": "Świnoujście is a city in Poland, located near the German border. The use of 'Centrum' (Latin origin, common in many languages) instead of the German 'Zentrum' is noteworthy, especially given it's a Polish destination. This sign indicates cross-border train services.",
+  "image_id": "59f532dbe48b5d36",
+  "language": "de"
+}

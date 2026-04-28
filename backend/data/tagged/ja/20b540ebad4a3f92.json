@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "止まれ",
+      "translation": "Stop",
+      "romanization": "Tomare",
+      "bbox": [
+        30,
+        70,
+        165,
+        170
+      ],
+      "breakdown": "止まれ (tomare) is the imperative form of the verb 止まる (tomaru), meaning 'to stop'."
+    },
+    {
+      "original": "一方通行路\n自動車・原付",
+      "translation": "One-way street\nCars・Mopeds",
+      "romanization": "Ippō tsūkōro\nJidōsha・Gentsuki",
+      "bbox": [
+        95,
+        300,
+        175,
+        545
+      ],
+      "breakdown": "一方通行路 (ippō tsūkōro) means 'one-way street'. 自動車 (jidōsha) means 'car'. 原付 (gentsuki) is an abbreviation for 原動機付自転車 (gendōki-tsuki jitensha), meaning 'moped'."
+    },
+    {
+      "original": "三井のリパーク",
+      "translation": "Mitsui's Repark",
+      "romanization": "Mitsui no Ripāku",
+      "bbox": [
+        735,
+        60,
+        785,
+        290
+      ],
+      "breakdown": "三井 (Mitsui) is a common Japanese corporate name. の (no) is a possessive particle. リパーク (Ripāku) is the Katakana rendering of 'Repark', a parking lot chain name."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a street in Japan, indicating traffic rules and a parking facility.",
+  "cultural_note": "Japanese traffic signs often supplement international symbols with Japanese text for specific instructions. 'Repark' is a well-known chain of coin-operated parking lots across Japan.",
+  "image_id": "20b540ebad4a3f92",
+  "language": "ja"
+}

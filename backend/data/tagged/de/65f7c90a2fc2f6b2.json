@@ -1,0 +1,73 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "ACHTUNG!",
+      "translation": "ATTENTION!",
+      "romanization": null,
+      "bbox": [
+        165,
+        485,
+        205,
+        720
+      ],
+      "breakdown": "An interjection meaning 'attention' or 'warning'."
+    },
+    {
+      "original": "Gesucht werden:",
+      "translation": "Wanted are:",
+      "romanization": null,
+      "bbox": [
+        215,
+        490,
+        250,
+        680
+      ],
+      "breakdown": "Passive voice construction: 'gesucht' is the past participle of 'suchen' (to search), 'werden' means 'to become' and here forms the passive, translating to 'are being sought'."
+    },
+    {
+      "original": "Logger - Fischdampferkapitäne",
+      "translation": "Logger - Fishing trawler captains",
+      "romanization": null,
+      "bbox": [
+        260,
+        420,
+        300,
+        780
+      ],
+      "breakdown": "'Logger' refers to a type of fishing vessel. 'Fischdampfer' is a compound noun: 'Fisch' (fish) + 'Dampfer' (steamer/trawler). 'Kapitäne' is the plural of 'Kapitän' (captain)."
+    },
+    {
+      "original": "u. Personal",
+      "translation": "and personnel",
+      "romanization": null,
+      "bbox": [
+        305,
+        520,
+        335,
+        670
+      ],
+      "breakdown": "'u.' is an abbreviation for 'und' (and). 'Personal' means personnel or staff."
+    },
+    {
+      "original": "VVB SASSNITZ VEB",
+      "translation": "VVB Sassnitz VEB",
+      "romanization": null,
+      "bbox": [
+        365,
+        420,
+        435,
+        780
+      ],
+      "breakdown": "'VVB' (Vereinigung Volkseigener Betriebe) and 'VEB' (Volkseigener Betrieb) are abbreviations for types of state-owned enterprises in the German Democratic Republic (East Germany). 'Sassnitz' is a port town in Germany."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would typically see this sign at a port or harbor, likely near an office or recruitment center for the fishing industry.",
+  "cultural_note": "The abbreviations 'VVB' and 'VEB' are specific to the German Democratic Republic (GDR, East Germany) during the Cold War era. They signify state-owned enterprises, reflecting the socialist economic system of the time. This sign is a historical artifact from that period, likely advertising job opportunities in the fishing sector of Sassnitz, a major port in the GDR.",
+  "image_id": "65f7c90a2fc2f6b2",
+  "language": "de"
+}

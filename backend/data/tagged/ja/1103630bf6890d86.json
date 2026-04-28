@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "アルファ ビゼン",
+      "translation": "Alpha Bizen",
+      "romanization": "Arufa Bizen",
+      "bbox": [
+        459,
+        310,
+        563,
+        679
+      ],
+      "breakdown": "アルファ (Arufa) is the Japanese katakana transcription for 'Alpha'. ビゼン (Bizen) is the katakana transcription for 'Bizen', likely a proper noun or company name."
+    }
+  ],
+  "category": "info",
+  "difficulty": "A1",
+  "where_youd_see_it": "On the facade of a commercial or office building.",
+  "cultural_note": "Katakana script is typically used in Japanese for foreign loanwords, onomatopoeia, and foreign proper nouns like company names or brand names, such as 'Alpha' and 'Bizen' here.",
+  "image_id": "1103630bf6890d86",
+  "language": "ja"
+}

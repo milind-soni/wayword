@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "GSM-R\nD",
+      "translation": "GSM-R (Railway Communication System) Germany",
+      "romanization": null,
+      "bbox": [
+        20,
+        270,
+        300,
+        700
+      ],
+      "breakdown": "'GSM-R' is an international acronym for 'Global System for Mobile Communications – Railway', a digital wireless communication system used in railway operations. 'D' stands for 'Deutschland', meaning Germany, indicating the country where this system is located."
+    },
+    {
+      "original": "BÜ\n7,7",
+      "translation": "Railway Crossing 7.7",
+      "romanization": null,
+      "bbox": [
+        310,
+        320,
+        480,
+        660
+      ],
+      "breakdown": "'BÜ' is an abbreviation for 'Bahnübergang' (railway crossing). The number '7,7' likely refers to a specific identifier, such as a kilometer marker or the number of the crossing along the railway line. The comma is the German decimal separator."
+    },
+    {
+      "original": "H",
+      "translation": "Stopping Point",
+      "romanization": null,
+      "bbox": [
+        490,
+        340,
+        680,
+        640
+      ],
+      "breakdown": "In German railway signaling, 'H' often stands for 'Halt' (stop) or 'Haltepunkt' (stopping point/halt). It marks a designated position for trains to stop or hold."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A2",
+  "where_youd_see_it": "You would see this sign next to railway tracks in Germany, likely near a railway crossing.",
+  "cultural_note": "These signs are specific to German railway infrastructure. 'GSM-R' is an international standard for digital wireless communication in railways. 'BÜ' is a common German abbreviation for 'Bahnübergang' (railway crossing), and 'H' often marks a specific stopping point or signal for train operations. The comma in '7,7' is the standard German decimal separator.",
+  "image_id": "1266c30941cf8b3d",
+  "language": "de"
+}

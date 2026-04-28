@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "BUCHHANDLUNG",
+      "translation": "Bookstore",
+      "romanization": null,
+      "bbox": [
+        681,
+        100,
+        832,
+        898
+      ],
+      "breakdown": "This is a compound noun: 'Buch' means 'book', and 'Handlung' means 'action' or 'shop/store'. Together, it means 'bookstore'."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "A1",
+  "where_youd_see_it": "On the facade of a building, indicating a bookstore.",
+  "cultural_note": "German frequently uses compound nouns, combining two or more words to create a new word. Here, 'Buch' (book) and 'Handlung' (shop) combine to form 'Buchhandlung' (bookshop). The owl is a common symbol for knowledge and learning, making it a fitting motif for a bookstore sign.",
+  "image_id": "41c356e74912ee0d",
+  "language": "de"
+}

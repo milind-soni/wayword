@@ -1,0 +1,61 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "ALTE APOTHEKE",
+      "translation": "Old Pharmacy",
+      "romanization": null,
+      "bbox": [
+        160,
+        210,
+        230,
+        800
+      ],
+      "breakdown": "Alte (old, feminine/plural form of 'alt') + Apotheke (pharmacy, feminine noun)."
+    },
+    {
+      "original": "Alte Apotheke D. Strunk",
+      "translation": "Old Pharmacy D. Strunk",
+      "romanization": null,
+      "bbox": [
+        488,
+        442,
+        562,
+        535
+      ],
+      "breakdown": "Alte (old) + Apotheke (pharmacy) + D. Strunk (a common German surname, likely the owner's name)."
+    },
+    {
+      "original": "A. Munk Apotheker",
+      "translation": "A. Munk Pharmacist",
+      "romanization": null,
+      "bbox": [
+        719,
+        304,
+        757,
+        373
+      ],
+      "breakdown": "A. Munk (a name) + Apotheker (pharmacist, masculine noun)."
+    },
+    {
+      "original": "Alte Apotheke",
+      "translation": "Old Pharmacy",
+      "romanization": null,
+      "bbox": [
+        708,
+        610,
+        746,
+        686
+      ],
+      "breakdown": "Alte (old) + Apotheke (pharmacy)."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "A1",
+  "where_youd_see_it": "On the facade of a pharmacy in a German town.",
+  "cultural_note": "Pharmacies in Germany, known as 'Apotheken', are often identifiable by a prominent red 'A' symbol, sometimes accompanied by a stylized serpent and chalice, as seen on the main sign and as glowing red symbols near the entrance.",
+  "image_id": "683c05bb0721e79d",
+  "language": "de"
+}

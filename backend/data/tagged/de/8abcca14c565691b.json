@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "VORSICHT!\nRUTSCHGEFAHR",
+      "translation": "CAUTION!\nDANGER OF SLIPPING",
+      "romanization": null,
+      "bbox": [
+        690,
+        200,
+        820,
+        800
+      ],
+      "breakdown": "'Vorsicht!' is an interjection meaning 'Caution!' or 'Watch out!'. 'Rutschgefahr' is a compound noun: 'rutschen' (to slip) + 'Gefahr' (danger), meaning 'danger of slipping'."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "A1",
+  "where_youd_see_it": "You would see this sign in areas where surfaces are prone to becoming slippery, especially during winter or in wet conditions.",
+  "cultural_note": null,
+  "image_id": "8abcca14c565691b",
+  "language": "de"
+}

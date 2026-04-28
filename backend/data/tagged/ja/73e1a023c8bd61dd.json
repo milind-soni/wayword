@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "毎日限定 ロースカツカレー 880円",
+      "translation": "Daily Special: Loin Cutlet Curry, 880 Yen",
+      "romanization": "Mainichi Gentei Ro-su Katsu Kare- Happyaku Hachijū En",
+      "bbox": [
+        580,
+        130,
+        670,
+        243
+      ],
+      "breakdown": "毎日 (mainichi) means 'every day'. 限定 (gentei) means 'limited', indicating a daily limited offer. ロース (ro-su) is 'loin' (from English 'roast' or 'loin'). カツ (katsu) is 'cutlet' (from English 'cutlet'). カレー (kare-) is 'curry'. 880円 (happyaku hachijū en) is the price, 880 Japanese Yen."
+    },
+    {
+      "original": "チキンオムカレー",
+      "translation": "Chicken Omelet Curry",
+      "romanization": "Chikin Omu Kare-",
+      "bbox": [
+        600,
+        153,
+        625,
+        223
+      ],
+      "breakdown": "チキン (chikin) means 'chicken'. オム (omu) is a shortened form of オムレツ (omuretsu), meaning 'omelet'. カレー (kare-) means 'curry'. This is a popular combination dish."
+    }
+  ],
+  "category": "food",
+  "difficulty": "A2",
+  "where_youd_see_it": "On a menu board or special offer sign outside a restaurant.",
+  "cultural_note": "Japanese curry is a beloved comfort food, often served with rice. Tonkatsu (pork cutlet) and omelets are very common toppings for curry, reflecting a blend of Western and Japanese culinary influences. 'C&C' is a popular curry chain in Japan, especially common in train stations.",
+  "image_id": "73e1a023c8bd61dd",
+  "language": "ja"
+}

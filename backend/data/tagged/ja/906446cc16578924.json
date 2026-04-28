@@ -1,0 +1,73 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "紀大歌祭り",
+      "translation": "Kii Great Song Festival",
+      "romanization": "Kii Dai Uta Matsuri",
+      "bbox": [
+        460,
+        320,
+        530,
+        540
+      ],
+      "breakdown": "紀 (Kii) refers to the Kii Peninsula/region (e.g., Wakayama); 大 (Dai) means great; 歌 (Uta) means song; 祭り (Matsuri) means festival."
+    },
+    {
+      "original": "featuring 濱田マリ",
+      "translation": "featuring Mari Hamada",
+      "romanization": "Hamada Mari",
+      "bbox": [
+        540,
+        330,
+        590,
+        530
+      ],
+      "breakdown": "\"featuring\" is English. 濱田 (Hamada) is a common Japanese surname; マリ (Mari) is a common Japanese given name in Katakana."
+    },
+    {
+      "original": "ポングンガンバンガビンゴンの伝説リアーの伝説～大阪",
+      "translation": "The Legend of Pongungangabangabingon, The Legend of Rear ~ Osaka",
+      "romanization": "Pongungangabangabingon no Densetsu Rear no Densetsu ~ Ōsaka",
+      "bbox": [
+        600,
+        270,
+        660,
+        630
+      ],
+      "breakdown": "ポングンガンバンガビンゴン (Pongungangabangabingon) and リアー (Rear) are likely foreign words or names in Katakana; の (no) is a possessive particle; 伝説 (densetsu) means legend; ～大阪 (~ Ōsaka) indicates the location, Osaka."
+    },
+    {
+      "original": "Thank you！SOLD OUT!!",
+      "translation": "Thank you! SOLD OUT!!",
+      "romanization": null,
+      "bbox": [
+        660,
+        550,
+        700,
+        810
+      ],
+      "breakdown": "English phrase indicating the event is fully booked."
+    },
+    {
+      "original": "▷OPEN ▷15:15 ▷START ▷16:00 ☆1DRINK ¥600",
+      "translation": "Open 15:15, Start 16:00, 1 drink for 600 yen",
+      "romanization": null,
+      "bbox": [
+        700,
+        550,
+        780,
+        800
+      ],
+      "breakdown": "\"OPEN\" and \"START\" are English. Times are in 24-hour format. \"1DRINK\" is English. \"¥600\" indicates 600 Japanese Yen."
+    }
+  ],
+  "category": "other",
+  "difficulty": "B1",
+  "where_youd_see_it": "At the entrance of a concert venue or live music club.",
+  "cultural_note": "BIGCAT is a well-known live music venue located in Shinsaibashi, Osaka, Japan. It's common for venues to use chalkboards like this to announce upcoming events, often with a mix of Japanese and English text.",
+  "image_id": "906446cc16578924",
+  "language": "ja"
+}

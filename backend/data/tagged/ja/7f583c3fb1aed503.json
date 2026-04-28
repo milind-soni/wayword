@@ -1,0 +1,61 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "飛び込まないで\nください。",
+      "translation": "Please do not enter/jump in.",
+      "romanization": "Tobikomanaide kudasai.",
+      "bbox": [
+        290,
+        206,
+        383,
+        401
+      ],
+      "breakdown": "飛び込む (tobikomu): to jump in, to dive in, to plunge into. -ないでください (-naide kudasai): a polite negative imperative, meaning 'please do not do X'."
+    },
+    {
+      "original": "危険!!",
+      "translation": "Danger!!",
+      "romanization": "Kiken!!",
+      "bbox": [
+        427,
+        269,
+        480,
+        393
+      ],
+      "breakdown": "危険 (kiken): danger, peril, hazard. The '!!' emphasizes the warning."
+    },
+    {
+      "original": "大阪市建設局",
+      "translation": "Osaka City Construction Bureau",
+      "romanization": "Ōsaka-shi Kensetsu-kyoku",
+      "bbox": [
+        569,
+        290,
+        594,
+        387
+      ],
+      "breakdown": "大阪市 (Ōsaka-shi): Osaka City. 建設 (kensetsu): construction. 局 (kyoku): bureau, department."
+    },
+    {
+      "original": "大阪府南警察署",
+      "translation": "Osaka Prefectural South Police Station",
+      "romanization": "Ōsaka-fu Minami Keisatsu-sho",
+      "bbox": [
+        599,
+        290,
+        622,
+        387
+      ],
+      "breakdown": "大阪府 (Ōsaka-fu): Osaka Prefecture. 南 (minami): south. 警察署 (keisatsu-sho): police station."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a temporary barrier around a construction site or restricted area.",
+  "cultural_note": "While 飛び込む literally means 'to jump/dive in', in the context of a barrier, it's often used metaphorically to mean 'to go through' or 'to enter' a prohibited area, rather than a literal jump into water.",
+  "image_id": "7f583c3fb1aed503",
+  "language": "ja"
+}

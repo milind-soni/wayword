@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "足元注意! 踏まないで下さい。\nFoot note! Please do not step.",
+      "translation": "Watch your step! Please do not step.",
+      "romanization": "Ashimoto chūi! Fumanaide kudasai.",
+      "bbox": [
+        471,
+        482,
+        608,
+        882
+      ],
+      "breakdown": "足元 (ashimoto) means 'at one's feet' or 'underfoot'. 注意 (chūi) means 'caution' or 'warning'. 踏まないで下さい (fumanaide kudasai) is a polite request meaning 'please do not step'. 踏む (fumu) is the verb 'to step on', and 〜ないで下さい (~naide kudasai) is the common grammar pattern for 'please do not ~'."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "A2",
+  "where_youd_see_it": "You would see this sign on a platform, step, or specific area where stepping is prohibited to prevent accidents or damage.",
+  "cultural_note": "Japanese signs often include English translations, which can sometimes be very literal, leading to slightly unusual or humorous phrasing like 'Foot note!' in this example. The Japanese phrase 足元注意 (ashimoto chūi) is a very common warning equivalent to 'Watch your step!'",
+  "image_id": "301615c148c2a6f1",
+  "language": "ja"
+}

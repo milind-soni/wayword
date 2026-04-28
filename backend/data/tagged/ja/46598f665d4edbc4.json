@@ -1,0 +1,73 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "一風堂監修 博多とんこつラーメン",
+      "translation": "Ippudo Supervised Hakata Tonkotsu Ramen",
+      "romanization": "Ippūdō kanshū Hakata Tonkotsu Rāmen",
+      "bbox": [
+        790,
+        230,
+        825,
+        760
+      ],
+      "breakdown": "一風堂 (いっぷうどう, Ippūdō): Name of a famous ramen chain. 監修 (かんしゅう, kanshū): Supervision, supervised by. 博多 (はかた, Hakata): A district in Fukuoka known for its tonkotsu ramen. とんこつ (Tonkotsu): Pork bone broth, a type of ramen. ラーメン (rāmen): Ramen."
+    },
+    {
+      "original": "加熱後、ゆっくりスープへ 汁はね、こぼれに注意！",
+      "translation": "After heating, slowly pour into the soup. Beware of splashing and spilling soup!",
+      "romanization": "Kanetsu-go, yukkuri sūpu e. Shiru-hane, kobore ni chūi!",
+      "bbox": [
+        460,
+        360,
+        520,
+        620
+      ],
+      "breakdown": "加熱後 (かねつご, kanetsu-go): After heating. ゆっくり (yukkuri): Slowly. スープへ (sūpu e): To the soup. 汁はね (しるはね, shiru-hane): Soup splashing. こぼれ (kobore): Spill. に注意 (にちゅうい, ni chūi): Be careful of/about."
+    },
+    {
+      "original": "セール実施中 30円引 セブン-イレブン 標準価格(税抜)からの値引き",
+      "translation": "Sale in progress. 30 yen discount. Discount from Seven-Eleven standard price (excluding tax).",
+      "romanization": "Sēru jisshi-chū. Sanjū-en biki. Sebun-Irebun hyōjun-kakaku (zeinuki) kara no nebiki.",
+      "bbox": [
+        295,
+        600,
+        420,
+        730
+      ],
+      "breakdown": "セール (sēru): Sale. 実施中 (じっしちゅう, jisshi-chū): In progress. 30円引 (さんじゅうえんびき, sanjū-en biki): 30 yen discount. セブン-イレブン (Sebun-Irebun): Seven-Eleven. 標準価格 (ひょうじゅんかかく, hyōjun-kakaku): Standard price. (税抜) (ぜいぬき, zeinuki): (Excluding tax). からの (kara no): From. 値引き (ねびき, nebiki): Discount."
+    },
+    {
+      "original": "麺かため",
+      "translation": "Hard noodles (firm noodles)",
+      "romanization": "Men katame",
+      "bbox": [
+        640,
+        310,
+        680,
+        420
+      ],
+      "breakdown": "麺 (めん, men): Noodles. かため (katame): Hard, firm (often used for doneness of food)."
+    },
+    {
+      "original": "加熱後は大変熱くなりますのでやけどにご注意ください。",
+      "translation": "It becomes very hot after heating, so please be careful not to get burned.",
+      "romanization": "Kanetsu-go wa taihen atsuku narimasu node yakedo ni go-chūi kudasai.",
+      "bbox": [
+        860,
+        240,
+        890,
+        760
+      ],
+      "breakdown": "加熱後 (かねつご, kanetsu-go): After heating. 大変 (たいへん, taihen): Very. 熱くなります (あつくなります, atsuku narimasu): Will become hot. ので (node): Because, so. やけど (yakedo): Burn (noun). にご注意ください (にごちゅういください, ni go-chūi kudasai): Please be careful of/about."
+    }
+  ],
+  "category": "food",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a packaged ramen bowl sold at a convenience store or supermarket.",
+  "cultural_note": "Ippudo is one of Japan's most famous ramen chains, known for its Hakata-style tonkotsu ramen. Convenience stores often collaborate with popular restaurants to offer their signature dishes as ready-to-eat meals. '麺かため' (firm noodles) is a popular preference, especially for Hakata ramen, which traditionally uses thin noodles that cook quickly.",
+  "image_id": "46598f665d4edbc4",
+  "language": "ja"
+}

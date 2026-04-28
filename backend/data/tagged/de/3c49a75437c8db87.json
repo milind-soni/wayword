@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Angrunds Verkehrswerbung\nVor einem Gleisanschluss des Geländes bitte im B. parken!",
+      "translation": "Angrunds Traffic Advertising\nBefore a railway siding of the premises, please park in B!",
+      "romanization": null,
+      "bbox": [
+        12,
+        496,
+        67,
+        794
+      ],
+      "breakdown": "\"Angrunds\": Likely a company name in genitive. \"Verkehrswerbung\": Compound noun (traffic + advertising). \"Vor einem Gleisanschluss\": \"Vor\" (before) is a preposition taking dative (\"einem Gleisanschluss\" - a railway siding). \"des Geländes\": \"des\" (of the) is the genitive definite article, \"Geländes\" (premises) is a genitive noun. \"bitte im B. parken!\": \"bitte\" (please), \"im B.\" (in area B, \"im\" is a contraction of \"in dem\"), \"parken\" (to park) is an infinitive used as a polite command."
+    }
+  ],
+  "category": "bureaucratic",
+  "difficulty": "A2",
+  "where_youd_see_it": "You would see this sign near a private railway siding, indicating where to park.",
+  "cultural_note": "Railway sidings (Gleisanschluss) are common in industrial areas in Germany, allowing direct rail access for businesses. Parking regulations are often specific to these private areas.",
+  "image_id": "3c49a75437c8db87",
+  "language": "de"
+}

@@ -1,0 +1,73 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "German",
+  "regions": [
+    {
+      "original": "Oberkäsbach 1",
+      "translation": "Oberkäsbach 1",
+      "romanization": null,
+      "bbox": [
+        172,
+        321,
+        267,
+        663
+      ],
+      "breakdown": "This is a proper noun, a place or street name 'Oberkäsbach', followed by the house number '1'. 'Ober' means 'upper', and 'Käsbach' is a local toponym."
+    },
+    {
+      "original": "Wasser",
+      "translation": "Water",
+      "romanization": null,
+      "bbox": [
+        372,
+        401,
+        399,
+        465
+      ],
+      "breakdown": "The German noun 'Wasser' means 'water'."
+    },
+    {
+      "original": "S 40",
+      "translation": "S 40",
+      "romanization": null,
+      "bbox": [
+        414,
+        399,
+        442,
+        483
+      ],
+      "breakdown": "'S' is likely an abbreviation for a type, series, or standard, and '40' is a numerical identifier."
+    },
+    {
+      "original": "1,4 t",
+      "translation": "1.4 tons",
+      "romanization": null,
+      "bbox": [
+        453,
+        399,
+        480,
+        483
+      ],
+      "breakdown": "'1,4' is the number one point four (in German, a comma is used as the decimal separator). 't' is an abbreviation for 'Tonne' (ton), possibly indicating a weight or capacity."
+    },
+    {
+      "original": "5,1",
+      "translation": "5.1",
+      "romanization": null,
+      "bbox": [
+        492,
+        399,
+        519,
+        465
+      ],
+      "breakdown": "'5,1' is the number five point one (comma as decimal separator). This is likely a measurement, such as depth in meters."
+    }
+  ],
+  "category": "info",
+  "difficulty": "A1",
+  "where_youd_see_it": "On a street sign in a rural or suburban area, often accompanied by utility markers for underground infrastructure.",
+  "cultural_note": "In German-speaking countries, a comma (',') is used as the decimal separator instead of a period ('.'). Street names often combine descriptive words like 'Ober-' (upper) with local place names. The smaller blue sign is a utility marker, commonly found on streets, indicating details about buried pipes or cables (in this case, 'Wasser' for water infrastructure).",
+  "image_id": "83748c71b93fbb2b",
+  "language": "de"
+}

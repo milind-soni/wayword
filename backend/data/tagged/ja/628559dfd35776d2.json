@@ -1,0 +1,133 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "舞鶴若狭道",
+      "translation": "Maizuru-Wakasa Expressway",
+      "romanization": "Maizuru-Wakasa-dō",
+      "bbox": [
+        57,
+        237,
+        108,
+        547
+      ],
+      "breakdown": "舞鶴 (Maizuru) and 若狭 (Wakasa) are place names. 道 (dō) means road or expressway."
+    },
+    {
+      "original": "舞鶴",
+      "translation": "Maizuru",
+      "romanization": "Maizuru",
+      "bbox": [
+        189,
+        298,
+        241,
+        410
+      ],
+      "breakdown": "A city name in Kyoto Prefecture."
+    },
+    {
+      "original": "山陽道",
+      "translation": "Sanyo Expressway",
+      "romanization": "San'yō-dō",
+      "bbox": [
+        382,
+        235,
+        432,
+        452
+      ],
+      "breakdown": "山陽 (San'yō) is a historical region name. 道 (dō) means road or expressway."
+    },
+    {
+      "original": "岡山",
+      "translation": "Okayama",
+      "romanization": "Okayama",
+      "bbox": [
+        498,
+        236,
+        549,
+        348
+      ],
+      "breakdown": "A city and prefecture name in Japan."
+    },
+    {
+      "original": "西宮北出口",
+      "translation": "Nishinomiya-kita Exit",
+      "romanization": "Nishinomiya-kita Deguchi",
+      "bbox": [
+        677,
+        258,
+        726,
+        497
+      ],
+      "breakdown": "西宮 (Nishinomiya) is a city name. 北 (kita) means north. 出口 (deguchi) means exit."
+    },
+    {
+      "original": "中国道",
+      "translation": "Chugoku Expressway",
+      "romanization": "Chūgoku-dō",
+      "bbox": [
+        56,
+        686,
+        106,
+        881
+      ],
+      "breakdown": "中国 (Chūgoku) is a region name. 道 (dō) means road or expressway."
+    },
+    {
+      "original": "津山",
+      "translation": "Tsuyama",
+      "romanization": "Tsuyama",
+      "bbox": [
+        187,
+        726,
+        238,
+        836
+      ],
+      "breakdown": "A city name in Okayama Prefecture."
+    },
+    {
+      "original": "新名神",
+      "translation": "Shin-Meishin Expressway",
+      "romanization": "Shin-Meishin",
+      "bbox": [
+        380,
+        683,
+        429,
+        881
+      ],
+      "breakdown": "新 (shin) means new. 名神 (Meishin) is an expressway name, an abbreviation of Nagoya-Kobe."
+    },
+    {
+      "original": "高槻",
+      "translation": "Takatsuki",
+      "romanization": "Takatsuki",
+      "bbox": [
+        496,
+        726,
+        547,
+        836
+      ],
+      "breakdown": "A city name in Osaka Prefecture."
+    },
+    {
+      "original": "神戸JCT 3.2km",
+      "translation": "Kobe Junction 3.2 kilometers",
+      "romanization": "Kōbe JCT 3.2km",
+      "bbox": [
+        874,
+        388,
+        915,
+        686
+      ],
+      "breakdown": "神戸 (Kōbe) is a city name. JCT is an English abbreviation for Junction. 3.2km indicates the distance."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A2",
+  "where_youd_see_it": "On a highway or expressway in Japan, indicating exits, routes, and distances to junctions.",
+  "cultural_note": "Japanese expressway signs often feature route numbers (E-numbers), Japanese names, and English transliterations for major expressways and destinations. Place names are typically written in kanji, and '道' (dō) is commonly used to denote a major road or expressway, similar to 'Expressway' in English.",
+  "image_id": "628559dfd35776d2",
+  "language": "ja"
+}

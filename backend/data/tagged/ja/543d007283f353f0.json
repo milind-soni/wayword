@@ -1,0 +1,61 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "とらふぐ",
+      "translation": "Tiger pufferfish",
+      "romanization": "Torafugu",
+      "bbox": [
+        250,
+        325,
+        517,
+        450
+      ],
+      "breakdown": "「とら」 (tora) means 'tiger' and 「ふぐ」 (fugu) means 'pufferfish'. This refers to a specific, highly prized variety of pufferfish."
+    },
+    {
+      "original": "南知多師崎",
+      "translation": "Minamichita Morosaki",
+      "romanization": "Minamichita Morosaki",
+      "bbox": [
+        258,
+        200,
+        500,
+        308
+      ],
+      "breakdown": "「南知多」 (Minamichita) is a town, and 「師崎」 (Morosaki) is a port/district within it, both known for seafood in Aichi Prefecture. These are proper nouns."
+    },
+    {
+      "original": "ひもの",
+      "translation": "Dried fish",
+      "romanization": "Himono",
+      "bbox": [
+        358,
+        650,
+        583,
+        717
+      ],
+      "breakdown": "「ひもの」 (himono) is a general term for various types of fish that have been salted and semi-dried, commonly grilled before eating."
+    },
+    {
+      "original": "港直送",
+      "translation": "Directly from the port",
+      "romanization": "Kō chokusō",
+      "bbox": [
+        308,
+        658,
+        358,
+        708
+      ],
+      "breakdown": "「港」 (kō) means 'port', and 「直送」 (chokusō) means 'direct delivery'. This phrase emphasizes freshness and direct sourcing from the fishing port."
+    }
+  ],
+  "category": "food",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would see these banners in a Japanese fish market or a shop specializing in seafood and local delicacies.",
+  "cultural_note": "Fugu (pufferfish) is a famous, expensive, and potentially deadly delicacy in Japan, requiring special licensing for preparation. Himono (dried fish) is a very common and popular way to preserve and consume fish, often grilled for breakfast or dinner. The banners indicate local produce and direct sales, a common marketing strategy for fresh/specialty foods in Japan.",
+  "image_id": "543d007283f353f0",
+  "language": "ja"
+}

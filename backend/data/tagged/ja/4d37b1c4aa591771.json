@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "飛び出し注意",
+      "translation": "Caution for darting out (e.g., children, animals)",
+      "romanization": "Tobidashi Chūi",
+      "bbox": [
+        786,
+        237,
+        864,
+        496
+      ],
+      "breakdown": "飛び出し (tobidashi) is a noun meaning 'darting out' or 'rushing out' (from 飛び出す, 'to jump out'). 注意 (chūi) means 'caution' or 'warning'."
+    },
+    {
+      "original": "茅ヶ崎市",
+      "translation": "Chigasaki City",
+      "romanization": "Chigasaki-shi",
+      "bbox": [
+        174,
+        527,
+        216,
+        710
+      ],
+      "breakdown": "茅ヶ崎 (Chigasaki) is a city name. 市 (shi) is a suffix meaning 'city'."
+    },
+    {
+      "original": "溝口",
+      "translation": "Mizonokuchi",
+      "romanization": "Mizonokuchi",
+      "bbox": [
+        294,
+        703,
+        333,
+        832
+      ],
+      "breakdown": "溝口 (Mizonokuchi) is a place name."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a street or road, especially near residential areas, parks, or waterways, often accompanied by a pictorial sign.",
+  "cultural_note": "The '飛び出し注意' (tobidashi chūi) sign is very common in Japan and warns drivers to be cautious of people or animals suddenly entering the road. While often depicting children, this particular sign with ducks indicates a warning for animals. Such signs reflect an emphasis on community safety and awareness of local wildlife.",
+  "image_id": "4d37b1c4aa591771",
+  "language": "ja"
+}

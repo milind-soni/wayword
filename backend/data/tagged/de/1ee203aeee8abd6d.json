@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "German",
+  "regions": [
+    {
+      "original": "Parthie im Rabenauergrunde bei Spechtritz.",
+      "translation": "Scene in the Rabenauergrund near Spechtritz.",
+      "romanization": null,
+      "bbox": [
+        67,
+        418,
+        103,
+        984
+      ],
+      "breakdown": " 'Parthie' is an older spelling of 'Partie' (meaning 'scene' or 'view'). 'im' is a contraction of 'in dem' (in the). 'Rabenauergrunde' is the dative case of 'Rabenauergrund', a specific valley name. 'bei' means 'near' or 'at'. 'Spechtritz' is a place name."
+    },
+    {
+      "original": "Halt!",
+      "translation": "Stop!",
+      "romanization": null,
+      "bbox": [
+        695,
+        686,
+        716,
+        727
+      ],
+      "breakdown": " 'Halt!' is an imperative, meaning 'Stop!'. It serves as a warning or command."
+    },
+    {
+      "original": "2662 Brück & Sohn, Meissen.",
+      "translation": "2662 Brück & Son, Meissen.",
+      "romanization": null,
+      "bbox": [
+        957,
+        260,
+        989,
+        699
+      ],
+      "breakdown": " '2662' is likely a catalog or serial number. 'Brück & Sohn' is a company name (Brück and Son). 'Meissen' is a city in Germany, indicating the publisher's location."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a historical postcard depicting a landscape scene in Germany.",
+  "cultural_note": "The spelling 'Parthie' is an archaic variant of 'Partie', common in German texts and postcards from the late 19th and early 20th centuries. This indicates the vintage of the postcard.",
+  "image_id": "1ee203aeee8abd6d",
+  "language": "de"
+}

@@ -1,0 +1,73 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "秋田 121km",
+      "translation": "Akita 121 km",
+      "romanization": "Akita",
+      "bbox": [
+        96,
+        442,
+        128,
+        595
+      ],
+      "breakdown": "秋田 (Akita) is a prefecture and city name. The number indicates distance in kilometers."
+    },
+    {
+      "original": "田沢湖 47km",
+      "translation": "Lake Tazawa 47 km",
+      "romanization": "Tazawako",
+      "bbox": [
+        186,
+        442,
+        218,
+        580
+      ],
+      "breakdown": "田沢湖 (Tazawako) is the name of a lake. 湖 (ko) means lake. The number indicates distance in kilometers."
+    },
+    {
+      "original": "盛岡駅 5km",
+      "translation": "Morioka Station 5 km",
+      "romanization": "Morioka-eki",
+      "bbox": [
+        270,
+        442,
+        302,
+        560
+      ],
+      "breakdown": "盛岡 (Morioka) is a city name. 駅 (eki) means station. The number indicates distance in kilometers."
+    },
+    {
+      "original": "盛岡西バイパス",
+      "translation": "Morioka West Bypass",
+      "romanization": "Morioka Nishi Baipasu",
+      "bbox": [
+        100,
+        394,
+        335,
+        420
+      ],
+      "breakdown": "盛岡 (Morioka) is a city name. 西 (nishi) means west. バイパス (baipasu) is a loanword meaning 'bypass'."
+    },
+    {
+      "original": "国道 46 ROUTE",
+      "translation": "National Route 46",
+      "romanization": "Kokudō 46",
+      "bbox": [
+        580,
+        390,
+        650,
+        450
+      ],
+      "breakdown": "国道 (kokudō) means national route or national highway. '46' is the route number. 'ROUTE' is an English word."
+    }
+  ],
+  "category": "traffic",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a Japanese national highway or major road, indicating directions and distances to cities and landmarks.",
+  "cultural_note": "Japanese road signs frequently include both Japanese (Kanji and Kana) and English text, often with Romaji (romanization of Japanese) for place names, to assist international travelers. This makes them relatively easy for non-Japanese speakers to navigate.",
+  "image_id": "50cb544ce220111f",
+  "language": "ja"
+}

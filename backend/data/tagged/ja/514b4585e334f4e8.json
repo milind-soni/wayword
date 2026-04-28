@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "金原書店 小説・新刊・文庫",
+      "translation": "Kanahara Bookstore: Novels, New Releases, Paperbacks",
+      "romanization": "Kanahara Shoten: Shōsetsu, Shinkan, Bunko",
+      "bbox": [
+        277,
+        98,
+        642,
+        908
+      ],
+      "breakdown": "金原 (Kanahara) is a family name. 書店 (shoten) means bookstore. 小説 (shōsetsu) means novel. 新刊 (shinkan) means new publication/new release. 文庫 (bunko) refers to paperback books, often in a specific small format."
+    },
+    {
+      "original": "2F 整体院",
+      "translation": "2nd Floor: Seitai Clinic",
+      "romanization": "2F Seitai-in",
+      "bbox": [
+        651,
+        194,
+        762,
+        452
+      ],
+      "breakdown": "2F means 2nd Floor. 整体院 (seitai-in) is a clinic specializing in Seitai, a traditional Japanese manipulative therapy."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "B1",
+  "where_youd_see_it": "On the front of a commercial building in a Japanese shopping area.",
+  "cultural_note": "In Japan, 'bunko' (文庫) refers to a popular format of small, affordable paperback books, often released after the hardcover edition, covering a wide range of genres.",
+  "image_id": "514b4585e334f4e8",
+  "language": "ja"
+}

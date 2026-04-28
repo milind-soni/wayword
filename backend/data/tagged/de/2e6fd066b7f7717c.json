@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Achtung",
+      "translation": "Caution / Warning",
+      "romanization": null,
+      "bbox": [
+        267,
+        219,
+        396,
+        785
+      ],
+      "breakdown": "Achtung is a German noun meaning 'attention' or 'warning', commonly used as an exclamation to mean 'Caution!' or 'Watch out!'."
+    },
+    {
+      "original": "BÖSER HUND",
+      "translation": "BAD DOG",
+      "romanization": null,
+      "bbox": [
+        410,
+        252,
+        489,
+        747
+      ],
+      "breakdown": "Böser is the strong nominative masculine singular form of the adjective 'böse' (bad/evil). Hund means 'dog'. Together, 'Bad Dog'."
+    },
+    {
+      "original": "Auch böses Herrchen, böses Frauchen, böse Kinder ... ganze Familie ist böse!",
+      "translation": "Also bad master, bad mistress, bad children ... the whole family is bad!",
+      "romanization": null,
+      "bbox": [
+        530,
+        169,
+        706,
+        835
+      ],
+      "breakdown": "Auch: also. Böses: neuter singular form of 'böse' (bad), used for 'Herrchen' (male owner, diminutive) and 'Frauchen' (female owner, diminutive). Böse: plural form of 'böse' for 'Kinder' (children). Ganze Familie: entire family. Ist: is. Ist böse: is bad."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would see this sign on a gate or fence of a private property.",
+  "cultural_note": "This is a humorous variation of the common 'Beware of Dog' sign, often found in Germany. It plays on the stereotype of a fierce dog by implying the entire family shares the dog's 'bad' nature, adding a lighthearted touch to a warning.",
+  "image_id": "2e6fd066b7f7717c",
+  "language": "de"
+}

@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "能越道",
+      "translation": "Nōetsu Expressway",
+      "romanization": "Nōetsu-dō",
+      "bbox": [
+        398,
+        203,
+        600,
+        796
+      ],
+      "breakdown": "能 (Nō) refers to the Noto region, 越 (Etsu) refers to the Echigo/Etchū regions (historical provinces), and 道 (dō) means road or way, often used as a suffix for expressways."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a highway or expressway in Japan, indicating the name of the route.",
+  "cultural_note": "Many expressways in Japan are named after the regions they connect, often using kanji from old provincial names like Nō (Noto Peninsula) and Etsu (e.g., Toyama and Niigata prefectures).",
+  "image_id": "3cea8de52dab41f4",
+  "language": "ja"
+}

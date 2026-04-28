@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Hochspannung\nVorsicht!\nLebensgefahr",
+      "translation": "High voltage\nCaution!\nDanger to life",
+      "romanization": null,
+      "bbox": [
+        581,
+        477,
+        703,
+        602
+      ],
+      "breakdown": "'Hochspannung' is a compound noun meaning 'high voltage' (hoch = high, Spannung = tension/voltage). 'Vorsicht!' is the noun 'Vorsicht' (caution) used as an exclamation/imperative. 'Lebensgefahr' is a compound noun meaning 'danger to life' (Leben = life, Gefahr = danger)."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "A1",
+  "where_youd_see_it": "You'd see this sign on or near electrical installations, power lines, or railway infrastructure where high voltage is present.",
+  "cultural_note": "German warning signs are typically very direct and leave little room for misinterpretation. The combination of 'Vorsicht!' (Caution!) and 'Lebensgefahr' (Danger to life) clearly communicates the severe risk involved, highlighting German pragmatism in safety messaging.",
+  "image_id": "79781dc74b236433",
+  "language": "de"
+}

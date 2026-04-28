@@ -3,7 +3,9 @@ __pycache__/
 *.pyc
 .env
 .env.local
-backend/data/
+# Raw images are 600MB+ and free to re-scrape from Wikimedia — keep out of git.
+# Tagged JSON is small (~500KB) and represents real Gemini API spend, so commit it.
+backend/data/raw/
 node_modules/
 .next/
 .DS_Store

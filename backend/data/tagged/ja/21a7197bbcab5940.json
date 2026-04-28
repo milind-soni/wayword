@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "能越道",
+      "translation": "Noetsu Expressway",
+      "romanization": "Noetsu-dō",
+      "bbox": [
+        372,
+        102,
+        576,
+        905
+      ],
+      "breakdown": "能 (Nō) refers to Noto (能登) Peninsula. 越 (Etsu) refers to Etchū (越中) Province (modern-day Toyama Prefecture). 道 (dō) means 'road' and is commonly used in names of expressways (高速道路 - kōsoku dōro)."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A1",
+  "where_youd_see_it": "You would see this sign on or near the Noetsu Expressway in Japan, indicating the route number and name.",
+  "cultural_note": "Many Japanese expressways are named by combining characters from the old provincial names or major regions they connect. 'E41' is the route number for this specific expressway.",
+  "image_id": "21a7197bbcab5940",
+  "language": "ja"
+}

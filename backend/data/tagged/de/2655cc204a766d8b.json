@@ -1,0 +1,97 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Gesundheits Centrum Bassum",
+      "translation": "Health Center Bassum",
+      "romanization": null,
+      "bbox": [
+        245,
+        310,
+        365,
+        690
+      ],
+      "breakdown": "Gesundheit means 'health', Centrum (or Zentrum) means 'center', and Bassum is the name of the location."
+    },
+    {
+      "original": "GesundheitsCentrum\nBassum GmbH\n2. OG",
+      "translation": "Health Center\nBassum Ltd.\n2nd Floor",
+      "romanization": null,
+      "bbox": [
+        400,
+        290,
+        465,
+        480
+      ],
+      "breakdown": "GesundheitsCentrum Bassum is the name of the center. GmbH (Gesellschaft mit beschränkter Haftung) is a common company legal form similar to 'Ltd.' or 'LLC'. 2. OG stands for 'zweites Obergeschoss', meaning 'second floor' (the first floor above the ground floor)."
+    },
+    {
+      "original": "Ute Matzen\nAndrea Vogt-Hunfeld\nKrankengymnastik\nMed. Trainingstherapie\n2. OG",
+      "translation": "Ute Matzen\nAndrea Vogt-Hunfeld\nPhysiotherapy\nMed. Training Therapy\n2nd Floor",
+      "romanization": null,
+      "bbox": [
+        400,
+        500,
+        465,
+        690
+      ],
+      "breakdown": "These are names of practitioners. Krankengymnastik means 'physiotherapy' or 'physical therapy'. Med. Trainingstherapie means 'medical training therapy'. 2. OG means 'second floor'."
+    },
+    {
+      "original": "Marianne Niehaus\nFachärztin f. Allgemeinmedizin / H-Ärztin\nDr. med. R. Wangerin\nInternist (Herz- und Gefäßuntersuchung)\n1. OG",
+      "translation": "Marianne Niehaus\nSpecialist for General Medicine / General Practitioner\nDr. med. R. Wangerin\nInternist (Heart and Vascular Examination)\n1st Floor",
+      "romanization": null,
+      "bbox": [
+        480,
+        290,
+        575,
+        480
+      ],
+      "breakdown": "These are names of doctors. Fachärztin f. Allgemeinmedizin is a 'female specialist for general medicine'. H-Ärztin is an abbreviation for 'Hausärztin', a general practitioner. Internist is an 'internist'. Herz- und Gefäßuntersuchung means 'heart and vascular examination'. 1. OG means 'first floor'."
+    },
+    {
+      "original": "Dr. med. Jürgen Falck\nFA f. Innere Medizin / Gastroenterologie\nMarcus Fürle\nFA für Allgemeinmedizin\n1. OG",
+      "translation": "Dr. med. Jürgen Falck\nSpecialist for Internal Medicine / Gastroenterology\nMarcus Fürle\nSpecialist for General Medicine\n1st Floor",
+      "romanization": null,
+      "bbox": [
+        480,
+        500,
+        575,
+        690
+      ],
+      "breakdown": "These are names of doctors. FA f. Innere Medizin stands for 'Facharzt für Innere Medizin', a 'specialist for internal medicine'. Gastroenterologie means 'gastroenterology'. FA für Allgemeinmedizin means 'specialist for general medicine'. 1. OG means 'first floor'."
+    },
+    {
+      "original": "Gemeinschaftspraxis\nDr. med. Judith Herholz\nDr. med. Michael Hippach\nGintare Kotke-Pakeltis\nFachärzte für Frauenheilkunde\nund Geburtshilfe\n1. OG",
+      "translation": "Group Practice\nDr. med. Judith Herholz\nDr. med. Michael Hippach\nGintare Kotke-Pakeltis\nSpecialists for Gynecology\nand Obstetrics\n1st Floor",
+      "romanization": null,
+      "bbox": [
+        590,
+        290,
+        685,
+        480
+      ],
+      "breakdown": "Gemeinschaftspraxis means 'group practice', referring to multiple doctors sharing a practice. These are names of doctors. Fachärzte für Frauenheilkunde means 'specialists for gynecology' (literally 'women's medicine'). Geburtshilfe means 'obstetrics'. 1. OG means 'first floor'."
+    },
+    {
+      "original": "Dr. med. Maik Lomp\nFacharzt für Orthopädie\nChirotherapie • Akupunktur\nEG",
+      "translation": "Dr. med. Maik Lomp\nSpecialist for Orthopedics\nChiropractic • Acupuncture\nGround Floor",
+      "romanization": null,
+      "bbox": [
+        750,
+        500,
+        805,
+        690
+      ],
+      "breakdown": "This is a doctor's name. Facharzt für Orthopädie means 'specialist for orthopedics'. Chirotherapie means 'chiropractic therapy'. Akupunktur means 'acupuncture'. EG stands for 'Erdgeschoss', meaning 'ground floor'."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B2",
+  "where_youd_see_it": "You would see this sign outside a medical center or a multi-specialty clinic in Germany.",
+  "cultural_note": "In Germany, 'Dr. med.' is an academic title indicating a doctorate in medicine. 'EG' (Erdgeschoss) refers to the ground floor, and 'OG' (Obergeschoss) refers to floors above the ground floor, with '1. OG' being the first floor above ground level. 'Gemeinschaftspraxis' indicates a shared medical practice with multiple doctors.",
+  "image_id": "2655cc204a766d8b",
+  "language": "de"
+}

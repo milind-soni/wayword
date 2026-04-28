@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Meierei im Lössnitzgrunde.",
+      "translation": "Dairy farm in the Lössnitz Valley.",
+      "romanization": null,
+      "bbox": [
+        733,
+        222,
+        773,
+        796
+      ],
+      "breakdown": "'Meierei' means dairy farm or creamery. 'im' is a contraction of 'in dem' (in the). 'Lössnitzgrunde' is the dative form of 'Lössnitzgrund', referring to a specific valley or area."
+    },
+    {
+      "original": "2270 Verlag v. Carl Pittius, Kötzschenbroda.",
+      "translation": "2270 Published by Carl Pittius, Kötzschenbroda.",
+      "romanization": null,
+      "bbox": [
+        903,
+        76,
+        929,
+        497
+      ],
+      "breakdown": "'2270' is likely an inventory or publisher's number. 'Verlag' means publisher. 'v.' is an abbreviation for 'von' (by/from). 'Carl Pittius' is the name of the publisher. 'Kötzschenbroda' is a historical place name, now part of Radebeul, Germany, where the publisher was located."
+    },
+    {
+      "original": "Handkolorirte Künstlerkarte.",
+      "translation": "Hand-colored artist's postcard.",
+      "romanization": null,
+      "bbox": [
+        875,
+        795,
+        926,
+        950
+      ],
+      "breakdown": "'Handkolorirte' (older spelling of 'handkolorierte') means hand-colored. 'Künstlerkarte' is a compound noun meaning 'artist's card' or 'artist's postcard', implying a higher quality or artistic rendering."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B1",
+  "where_youd_see_it": "On an old German postcard.",
+  "cultural_note": "This postcard uses older German orthography, such as 'kolorirte' instead of the modern 'kolorierte'. It's a common example of early 20th-century postcards, which often featured hand-coloring to add vibrancy before full-color printing was widely available. The 'Lössnitzgrund' and 'Kötzschenbroda' are specific locations in Saxony, Germany, indicating a regional theme.",
+  "image_id": "3836855f21fecfd2",
+  "language": "de"
+}

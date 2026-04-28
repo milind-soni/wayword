@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "立入禁止",
+      "translation": "No Entry / Keep Out",
+      "romanization": "Tachiiri Kinshi",
+      "bbox": [
+        193,
+        343,
+        230,
+        400
+      ],
+      "breakdown": "立入 (tachiiri) means 'entry' or 'to enter'. 禁止 (kinshi) means 'prohibition' or 'ban'. Together, they form 'No Entry'."
+    },
+    {
+      "original": "現在地",
+      "translation": "Current Floor / Current Location",
+      "romanization": "Genzai-chi",
+      "bbox": [
+        183,
+        520,
+        203,
+        570
+      ],
+      "breakdown": "現在 (genzai) means 'present' or 'current'. 地 (chi) means 'place' or 'location'. Combined, it indicates the 'current location' or 'current floor' in an elevator context."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A1",
+  "where_youd_see_it": "On an elevator door in a building.",
+  "cultural_note": null,
+  "image_id": "69743e644579a5ae",
+  "language": "ja"
+}

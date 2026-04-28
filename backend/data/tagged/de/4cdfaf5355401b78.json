@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "RATSKELLER VERWALTUNG",
+      "translation": "Rathskeller Management",
+      "romanization": null,
+      "bbox": [
+        373,
+        290,
+        422,
+        720
+      ],
+      "breakdown": "Ratskeller is a compound of 'Rat' (council) and 'Keller' (cellar), referring to a traditional restaurant/wine cellar in a city hall. 'Verwaltung' means administration or management."
+    },
+    {
+      "original": "STADT-WEINVERKAUF",
+      "translation": "City Wine Sales",
+      "romanization": null,
+      "bbox": [
+        431,
+        381,
+        479,
+        715
+      ],
+      "breakdown": "'Stadt' means city or municipal. 'Weinverkauf' is a compound of 'Wein' (wine) and 'Verkauf' (sale), meaning wine sales or wine shop."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "B1",
+  "where_youd_see_it": "On the facade of a historic building, likely a city hall, indicating a municipal wine cellar or shop.",
+  "cultural_note": "A 'Ratskeller' is a traditional German restaurant and/or wine cellar typically located in the basement of a city hall (Rathaus). They often serve local wines and traditional cuisine, and are known for their historical atmosphere.",
+  "image_id": "4cdfaf5355401b78",
+  "language": "de"
+}

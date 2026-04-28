@@ -1,0 +1,109 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "池袋 戸田",
+      "translation": "Ikebukuro Toda",
+      "romanization": "Ikebukuro Toda",
+      "bbox": [
+        89,
+        310,
+        138,
+        472
+      ],
+      "breakdown": "池袋 (Ikebukuro) is a major district in Tokyo. 戸田 (Toda) is a city in Saitama Prefecture. Both are destinations indicated by this highway sign."
+    },
+    {
+      "original": "首都高 SHUTO EXPWY",
+      "translation": "Shuto Expressway",
+      "romanization": "Shutoko",
+      "bbox": [
+        148,
+        310,
+        198,
+        482
+      ],
+      "breakdown": "首都高 (Shutoko) is an abbreviation for 首都高速道路 (Shuto Kōsoku Dōro), the Metropolitan Expressway network in and around Tokyo. 'SHUTO EXPWY' is the English abbreviation."
+    },
+    {
+      "original": "熊谷 春日部 岩槻",
+      "translation": "Kumagaya Kasukabe Iwatsuki",
+      "romanization": "Kumagaya Kasukabe Iwatsuki",
+      "bbox": [
+        206,
+        229,
+        256,
+        472
+      ],
+      "breakdown": "熊谷 (Kumagaya), 春日部 (Kasukabe), and 岩槻 (Iwatsuki) are cities in Saitama Prefecture, serving as destinations."
+    },
+    {
+      "original": "E4 東北道 TOHOKU EXPWY",
+      "translation": "Tohoku Expressway",
+      "romanization": "Tohoku-do",
+      "bbox": [
+        263,
+        229,
+        314,
+        479
+      ],
+      "breakdown": "東北道 (Tohoku-do) is an abbreviation for 東北自動車道 (Tohoku Jidōshadō), the Tohoku Expressway. 'E4' is its route number. 'TOHOKU EXPWY' is the English abbreviation."
+    },
+    {
+      "original": "200m",
+      "translation": "200 meters",
+      "romanization": "Ni-hyaku mētoru",
+      "bbox": [
+        321,
+        229,
+        350,
+        306
+      ],
+      "breakdown": "Indicates the distance, in meters, to the respective exit or junction for the destinations listed above."
+    },
+    {
+      "original": "八王子 川越",
+      "translation": "Hachioji Kawagoe",
+      "romanization": "Hachioji Kawagoe",
+      "bbox": [
+        206,
+        493,
+        256,
+        659
+      ],
+      "breakdown": "八王子 (Hachioji) is a city in Tokyo. 川越 (Kawagoe) is a city in Saitama Prefecture. Both are destinations indicated by this highway sign."
+    },
+    {
+      "original": "E17 関越道 KAN-ETSU EXP",
+      "translation": "Kan-Etsu Expressway",
+      "romanization": "Kan'etsu-do",
+      "bbox": [
+        263,
+        493,
+        314,
+        694
+      ],
+      "breakdown": "関越道 (Kan'etsu-do) is an abbreviation for 関越自動車道 (Kan'etsu Jidōshadō), the Kan-Etsu Expressway. 'E17' is its route number. 'KAN-ETSU EXP' is the English abbreviation."
+    },
+    {
+      "original": "300m",
+      "translation": "300 meters",
+      "romanization": "San-byaku mētoru",
+      "bbox": [
+        321,
+        493,
+        350,
+        569
+      ],
+      "breakdown": "Indicates the distance, in meters, to the respective exit or junction for the destinations listed above."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A1",
+  "where_youd_see_it": "On a highway in Japan, indicating directions to various cities and expressways.",
+  "cultural_note": "Japanese highway signs often include both Japanese kanji/kana and romaji (romanized Japanese), along with English translations of expressway names, to assist international drivers. Common expressway names like '首都高' (Shutoko), '東北道' (Tohoku-do), and '関越道' (Kan-Etsu-do) are frequently abbreviated on signs.",
+  "image_id": "096ac736f34ec18f",
+  "language": "ja"
+}

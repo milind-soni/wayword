@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "ALTE APOTHEKE",
+      "translation": "OLD PHARMACY",
+      "romanization": null,
+      "bbox": [
+        108,
+        189,
+        182,
+        808
+      ],
+      "breakdown": "'Alte' is the inflected form of 'alt' (old), agreeing with 'Apotheke' (pharmacy), a feminine noun. 'Apotheke' is the German word for pharmacy or chemist's shop."
+    },
+    {
+      "original": "Alte Apotheke Dr. Strunk",
+      "translation": "Old Pharmacy Dr. Strunk",
+      "romanization": null,
+      "bbox": [
+        460,
+        415,
+        520,
+        580
+      ],
+      "breakdown": "'Alte Apotheke' means 'Old Pharmacy'. 'Dr. Strunk' is the name of the pharmacist or owner, indicating the business is run by a Dr. Strunk."
+    },
+    {
+      "original": "M. Strunk Apotheker",
+      "translation": "M. Strunk Pharmacist",
+      "romanization": null,
+      "bbox": [
+        596,
+        310,
+        642,
+        427
+      ],
+      "breakdown": "'M. Strunk' is likely the name of the pharmacist. 'Apotheker' is the German word for pharmacist (male)."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "A1",
+  "where_youd_see_it": "On the facade and signs of a traditional pharmacy in a German town.",
+  "cultural_note": "German pharmacies (Apotheken) are highly regulated and often marked by a red 'A' symbol, sometimes with a serpent and staff. They primarily dispense medications and a limited range of health products, distinct from general drugstores (Drogeriemärkte). The title 'Apotheker' confirms a licensed pharmacist is operating the business.",
+  "image_id": "3a46c4a7cf48b473",
+  "language": "de"
+}

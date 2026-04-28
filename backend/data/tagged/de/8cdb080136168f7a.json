@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Altendorf",
+      "translation": "Altendorf",
+      "romanization": null,
+      "bbox": [
+        374,
+        252,
+        437,
+        362
+      ],
+      "breakdown": "'Alt' (old) + 'Dorf' (village). This is a common component in German place names, here likely referring to a specific district or street."
+    },
+    {
+      "original": "Hist. Stadtrundgang",
+      "translation": "Historic City Tour",
+      "romanization": null,
+      "bbox": [
+        478,
+        275,
+        498,
+        382
+      ],
+      "breakdown": "'Hist.' is an abbreviation for 'historisch' (historic). 'Stadt' (city) + 'Rundgang' (tour or walk). This refers to a guided or self-guided tour of the city's historical sites."
+    },
+    {
+      "original": "Wendenborger Kirchgasse",
+      "translation": "Wendenborger Church Alley",
+      "romanization": null,
+      "bbox": [
+        494,
+        908,
+        524,
+        980
+      ],
+      "breakdown": "'Wendenborger' is an adjective form derived from 'Wendenborg', a proper noun (likely a place or historical figure). 'Kirch' (from 'Kirche', church) + 'Gasse' (alley)."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a street corner in a historic German town.",
+  "cultural_note": "Many German towns feature an 'Altstadt' (Old Town) and a 'Dom' (Cathedral), often highlighted in 'Historische Stadtrundgänge' (historic city tours) for visitors. Street names often incorporate historical or local features, like 'Kirchgasse' (church alley).",
+  "image_id": "8cdb080136168f7a",
+  "language": "de"
+}

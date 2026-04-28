@@ -1,0 +1,109 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "求人募集",
+      "translation": "Job Vacancy",
+      "romanization": "Kyūjin boshū",
+      "bbox": [
+        110,
+        307,
+        169,
+        576
+      ],
+      "breakdown": "求人 (kyūjin) means 'job offer' or 'recruitment for personnel'. 募集 (boshū) means 'recruitment' or 'invitation'. Together, they form a common phrase for 'We're hiring' or 'Staff wanted'."
+    },
+    {
+      "original": "キッチンののみ。",
+      "translation": "Kitchen staff only.",
+      "romanization": "Kitchin no nomi.",
+      "bbox": [
+        195,
+        312,
+        221,
+        488
+      ],
+      "breakdown": "キッチン (kitchin) is a katakana loanword for 'kitchen'. の (no) is a particle indicating possession or association. のみ (nomi) means 'only'."
+    },
+    {
+      "original": "18歳以上（高校生不可）",
+      "translation": "18 years old and over (no high school students)",
+      "romanization": "Jūhassai ijō (kōkōsei fuka)",
+      "bbox": [
+        234,
+        312,
+        286,
+        571
+      ],
+      "breakdown": "18歳以上 (jūhassai ijō) means '18 years old and above'. 高校生 (kōkōsei) means 'high school student'. 不可 (fuka) means 'not allowed' or 'unavailable', so 高校生不可 means 'high school students not allowed'."
+    },
+    {
+      "original": "時給 950",
+      "translation": "Hourly wage 950 (Yen)",
+      "romanization": "Jikyū kyūhyaku gojū",
+      "bbox": [
+        338,
+        307,
+        377,
+        449
+      ],
+      "breakdown": "時給 (jikyū) means 'hourly wage'. 950 refers to the amount, typically in Japanese Yen (¥)."
+    },
+    {
+      "original": "17:00〜3:00",
+      "translation": "5:00 PM to 3:00 AM",
+      "romanization": "Jūshichiji kara Sanji",
+      "bbox": [
+        423,
+        317,
+        456,
+        454
+      ],
+      "breakdown": "17:00 is 5 PM in 24-hour format. 〜 is a symbol indicating 'to' or 'until', showing a range. 3:00 typically means 3 AM in this context (following a late evening start)."
+    },
+    {
+      "original": "まかない有",
+      "translation": "Meals provided",
+      "romanization": "Makanai ari",
+      "bbox": [
+        488,
+        307,
+        514,
+        391
+      ],
+      "breakdown": "まかない (makanai) refers to staff meals or free meals provided to employees, especially in restaurants. 有 (ari) means 'available' or 'provided'."
+    },
+    {
+      "original": "交通費",
+      "translation": "Transportation expenses",
+      "romanization": "Kōtsūhi",
+      "bbox": [
+        520,
+        307,
+        547,
+        376
+      ],
+      "breakdown": "交通 (kōtsū) means 'traffic' or 'transportation'. 費 (hi) means 'cost' or 'expense'. Together, they mean 'transportation expenses' or 'commuting costs'."
+    },
+    {
+      "original": "連絡お待ちしてます",
+      "translation": "We are waiting for your contact (Please contact us)",
+      "romanization": "Renraku omachi shitemasu",
+      "bbox": [
+        573,
+        307,
+        612,
+        547
+      ],
+      "breakdown": "連絡 (renraku) means 'contact' or 'communication'. お待ちしてます (omachi shitemasu) is a polite expression meaning 'we are waiting', typically used to invite someone to contact them."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "A2",
+  "where_youd_see_it": "Outside a restaurant or shop looking for new staff.",
+  "cultural_note": "In Japan, it's common for part-time job postings, especially in food service, to specify if staff meals (まかない) and transportation expenses (交通費) are provided. The restriction on high school students (高校生不可) often applies to jobs with late hours or those involving alcohol service.",
+  "image_id": "64a4258eede6b6e1",
+  "language": "ja"
+}

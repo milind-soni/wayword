@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "監視カメラ作動中\n倒れると危険！\nマネキンには\n触らないでね\n・JIMSINN・",
+      "translation": "Surveillance camera in operation\nDanger if they fall!\nDon't touch the mannequins, okay?\n・JIMSINN・",
+      "romanization": "Kanshi kamera sakudōchū\nTaoreru to kiken!\nManekin ni wa\nSawaranai de ne\n・JIMSINN・",
+      "bbox": [
+        620,
+        465,
+        765,
+        580
+      ],
+      "breakdown": "監視カメラ (kanshi kamera): surveillance camera; 作動中 (sakudōchū): in operation; 倒れると (taoreru to): if they fall; 危険 (kiken): danger; マネキン (manekin): mannequin; 触らないでね (sawaranai de ne): please don't touch."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "A2",
+  "where_youd_see_it": "In a clothing store window or display, as a warning or request to customers.",
+  "cultural_note": "It is common in Japan for stores to use polite but firm requests, sometimes reinforced with warnings about surveillance or potential damage, to deter customers from touching delicate or display items. The particle 'ne' softens the imperative 'sawaranai de' (don't touch).",
+  "image_id": "79d352c063f85348",
+  "language": "ja"
+}

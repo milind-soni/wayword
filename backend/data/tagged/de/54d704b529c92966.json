@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Steinborn\nTilsholz",
+      "translation": "Steinborn\nTilsholz",
+      "romanization": null,
+      "bbox": [
+        270,
+        360,
+        420,
+        680
+      ],
+      "breakdown": "These are proper nouns, names of towns or localities."
+    },
+    {
+      "original": "Budwedt",
+      "translation": "Budwedt",
+      "romanization": null,
+      "bbox": [
+        450,
+        360,
+        530,
+        680
+      ],
+      "breakdown": "This is a proper noun, the name of a town or locality."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A1",
+  "where_youd_see_it": "You'd see this sign on a country road, directing you to nearby villages.",
+  "cultural_note": "German road signs for towns typically use white text on a blue background. The arrow on the top sign indicates the direction to follow for these places.",
+  "image_id": "54d704b529c92966",
+  "language": "de"
+}

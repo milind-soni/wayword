@@ -1,0 +1,61 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Hier wurde am 12.Okt. 1961",
+      "translation": "Here, on Oct. 12, 1961,",
+      "romanization": null,
+      "bbox": [
+        184,
+        267,
+        276,
+        730
+      ],
+      "breakdown": "'Hier' (here); 'wurde' (was, auxiliary verb for passive voice); 'am' (on, contraction of 'an dem'); '12.Okt.' (12th of October); '1961' (the year 1961)."
+    },
+    {
+      "original": "ein Deutscher von Deutschen",
+      "translation": "a German by Germans",
+      "romanization": null,
+      "bbox": [
+        294,
+        186,
+        431,
+        720
+      ],
+      "breakdown": "'ein Deutscher' (a German, masculine singular, nominative case); 'von' (by, preposition indicating the agent in a passive sentence); 'Deutschen' (Germans, dative plural, the agent of the action)."
+    },
+    {
+      "original": "auf Ulbrichts Befehl hinterhältig",
+      "translation": "on Ulbricht's order perfidiously",
+      "romanization": null,
+      "bbox": [
+        444,
+        187,
+        571,
+        807
+      ],
+      "breakdown": "'auf' (on/upon); 'Ulbrichts' (Ulbricht's, genitive case of Ulbricht); 'Befehl' (order/command, masculine noun); 'hinterhältig' (perfidiously, treacherously, an adverb)."
+    },
+    {
+      "original": "ermordet!",
+      "translation": "murdered!",
+      "romanization": null,
+      "bbox": [
+        619,
+        277,
+        768,
+        701
+      ],
+      "breakdown": "'ermordet' (murdered, past participle of 'ermorden', completing the passive voice construction 'wurde ... ermordet'). The exclamation mark emphasizes the atrocity."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B2",
+  "where_youd_see_it": "At a historical memorial site, likely marking a former border crossing or incident location in Germany.",
+  "cultural_note": "This sign refers to the victims of the inner-German border, particularly those killed trying to cross from East to West Germany. Walter Ulbricht was the leader of East Germany (GDR) at the time, and 'Ulbricht's Befehl' implicates the state in these killings, which were often carried out by East German border guards (the 'Deutsche' in the second line). Such signs are important reminders of Germany's divided past and the human cost of the border regime, often placed as unofficial memorials.",
+  "image_id": "025d7a0898c232c7",
+  "language": "de"
+}

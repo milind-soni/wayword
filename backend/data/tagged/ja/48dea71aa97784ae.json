@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "お客様各位\n平素は松屋放出店をご利用いただき\n誠にありがとうございます。",
+      "translation": "To all customers,\nThank you very much for always using Matsuya Hanaten store.",
+      "romanization": "Okyakusama kaku'i\nHeiso wa Matsuya Hanaten-ten o goriyou itadaki\nMakoto ni arigatou gozaimasu.",
+      "bbox": [
+        320,
+        190,
+        420,
+        830
+      ],
+      "breakdown": "お客様 (okyaku-sama) means 'customer' (polite). 各位 (kaku'i) means 'to all of you' (formal address). 平素 (heiso) means 'always' or 'ordinarily'. 松屋放出店 (Matsuya Hanaten-ten) is the name of the store. ご利用いただき (goriyou itadaki) is a humble expression meaning 'to have you use'. 誠に (makoto ni) means 'truly' or 'indeed' (formal). ありがとうございます (arigatou gozaimasu) is 'thank you very much'."
+    },
+    {
+      "original": "9月4日に発生しました台風の影響で\n入口窓ガラスが破損しております。\nご不便をお掛け致しますが、何卒\nご理解の程、宜しくお願い申し上げます。\n店長敬白",
+      "translation": "Due to the typhoon that occurred on September 4th,\nthe entrance window glass is damaged.\nWe apologize for any inconvenience this may cause, and we kindly ask for your understanding.\nStore Manager Keihaku",
+      "romanization": "Kugatsu yokka ni hassei shimashita taifuu no eikyou de\nIriguchi mado garasu ga hason shite orimasu.\nGofuben o okake itashimasu ga, nanitozo\nGorikai no hodo, yoroshiku onegai moushiagemasu.\nTenchou Keihaku",
+      "bbox": [
+        430,
+        190,
+        570,
+        830
+      ],
+      "breakdown": "9月4日 (kugatsu yokka) is 'September 4th'. 発生しました (hassei shimashita) means 'occurred'. 台風 (taifuu) is 'typhoon'. 影響で (eikyou de) means 'due to the influence of'. 入口 (iriguchi) is 'entrance'. 窓ガラス (mado garasu) is 'window glass'. 破損しております (hason shite orimasu) means 'is damaged' (humble form). ご不便 (gofuben) means 'inconvenience'. お掛け致しますが (okake itashimasu ga) is a humble expression meaning 'although we cause inconvenience'. 何卒 (nanitozo) means 'please' or 'kindly' (strong request). ご理解の程 (gorikai no hodo) is a polite way to say 'your understanding'. 宜しくお願い申し上げます (yoroshiku onegai moushiagemasu) is a very polite and humble request for cooperation or favor. 店長 (tenchou) is 'store manager'. 敬白 (Keihaku) is a formal closing phrase in written communication, indicating respect."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B2",
+  "where_youd_see_it": "On a notice displayed at the entrance of a restaurant or shop.",
+  "cultural_note": "Japanese businesses often issue formal notices and apologies for any inconvenience, even minor ones, demonstrating a high degree of customer service and responsibility. '敬白' (keihaku) is a very formal closing phrase used in written correspondence to show respect, rather than part of the manager's personal name.",
+  "image_id": "48dea71aa97784ae",
+  "language": "ja"
+}

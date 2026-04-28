@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "伊佐沼通り\nIsanuma dori",
+      "translation": "Isanuma Street",
+      "romanization": "Isanuma dōri",
+      "bbox": [
+        133,
+        540,
+        212,
+        775
+      ],
+      "breakdown": "「伊佐沼」 (Isanuma) is a specific place name (a marsh or pond), and 「通り」 (dōri) means street or road. Together they form 'Isanuma Street'."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A1",
+  "where_youd_see_it": "On a road sign indicating the name of a street or route, typically at an intersection.",
+  "cultural_note": "Japanese road signs frequently provide both Japanese characters (Kanji/Hiragana/Katakana) and their romanized (English alphabet) equivalents, making them accessible to international visitors or those who cannot read Japanese script.",
+  "image_id": "64104298d2e95e81",
+  "language": "ja"
+}

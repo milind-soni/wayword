@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Achtung",
+      "translation": "Attention",
+      "romanization": null,
+      "bbox": [
+        432,
+        395,
+        520,
+        630
+      ],
+      "breakdown": "Achtung: Noun or interjection meaning 'attention' or 'caution', used here as an imperative."
+    },
+    {
+      "original": "freilaufender Hund!",
+      "translation": "loose dog!",
+      "romanization": null,
+      "bbox": [
+        564,
+        239,
+        652,
+        712
+      ],
+      "breakdown": "freilaufender: present participle of 'freilaufen' (to run freely), used as an adjective meaning 'loose' or 'free-roaming'. Declined to match 'Hund' (masculine, nominative). Hund: Noun, 'dog'."
+    },
+    {
+      "original": "Bitte klingeln!",
+      "translation": "Please ring!",
+      "romanization": null,
+      "bbox": [
+        725,
+        327,
+        813,
+        673
+      ],
+      "breakdown": "Bitte: Adverb meaning 'please'. klingeln: Verb 'to ring (a bell)', used here in the infinitive as a polite imperative."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "A2",
+  "where_youd_see_it": "On a gate or fence of a private property with a dog.",
+  "cultural_note": "This is a very common sign in German-speaking countries to alert visitors to the presence of a dog that might be loose in the yard, often to prevent unexpected encounters or to signal that one should ring the bell instead of just entering.",
+  "image_id": "894be97cfeea7849",
+  "language": "de"
+}

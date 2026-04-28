@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "たこ焼\n450円",
+      "translation": "Takoyaki\n450 yen",
+      "romanization": "Takoyaki\n450 en",
+      "bbox": [
+        485,
+        550,
+        955,
+        950
+      ],
+      "breakdown": "たこ (tako) means octopus. 焼 (yaki) refers to a grilled or fried dish. 450 is the price. 円 (en) is the Japanese currency, yen."
+    }
+  ],
+  "category": "food",
+  "difficulty": "A1",
+  "where_youd_see_it": "You would see this sign on a vendor's cap or stall at a stadium, festival, or other public event.",
+  "cultural_note": "Takoyaki are popular ball-shaped octopus fritters, especially famous as a street food from Osaka. They are often served with a special sauce, mayonnaise, and bonito flakes.",
+  "image_id": "570350cb6d58ab51",
+  "language": "ja"
+}

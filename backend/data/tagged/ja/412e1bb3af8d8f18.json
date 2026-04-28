@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "力欲します いいおとこ探し",
+      "translation": "I desire strength and I'm searching for a good man.",
+      "romanization": "Chikara hoshimasu ii otoko sagashi",
+      "bbox": [
+        680,
+        320,
+        880,
+        480
+      ],
+      "breakdown": "力 (chikara): strength, power.\n欲します (hoshimasu): polite form of 'to desire' or 'to want' (from 欲しい hoshii).\nいい (ii): good (phonetic spelling of 良い).\nおとこ (otoko): man (phonetic spelling of 男).\n探し (sagashi): search, looking for (noun form of the verb 探す sagasu, 'to search')."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B1",
+  "where_youd_see_it": "On the cover of a self-help or romance book in a bookstore or convenience store.",
+  "cultural_note": "The title uses phonetic hiragana for 'good man' (いいおとこ) instead of kanji (良い男), a common technique in titles to create a more casual or approachable tone. The 'strength' (力) likely refers to financial independence or personal resilience, given the typical themes of such self-help books and the surrounding text mentioning debt and earnings.",
+  "image_id": "412e1bb3af8d8f18",
+  "language": "ja"
+}

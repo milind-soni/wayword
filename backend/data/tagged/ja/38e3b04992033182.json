@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "電車注意",
+      "translation": "Caution: Train",
+      "romanization": "densha chūi",
+      "bbox": [
+        550,
+        290,
+        650,
+        450
+      ],
+      "breakdown": "電車 (densha) means 'train' (specifically an electric train). 注意 (chūi) means 'caution' or 'attention'. Together, it's a warning to be careful of trains."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "A1",
+  "where_youd_see_it": "Next to a tram line or railway crossing, warning pedestrians and drivers about oncoming trains.",
+  "cultural_note": "Japan places a high emphasis on safety, and clear, simple warning signs like this are ubiquitous near train tracks and other potentially hazardous areas.",
+  "image_id": "38e3b04992033182",
+  "language": "ja"
+}

@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "電車通り",
+      "translation": "Tram Street",
+      "romanization": "Densha dōri",
+      "bbox": [
+        310,
+        360,
+        360,
+        630
+      ],
+      "breakdown": "電車 (densha): electric train, tram. 通り (dōri): street, avenue. Together, it denotes a street associated with a tram line."
+    }
+  ],
+  "category": "traffic",
+  "difficulty": "A2",
+  "where_youd_see_it": "On a street pole, indicating the name of a main street or avenue.",
+  "cultural_note": "The term 'Densha dōri' literally means 'Tram Street' and typically designates a major road that either currently features or historically had tram lines, often serving as a prominent landmark in Japanese cities.",
+  "image_id": "0c2eb63dba674148",
+  "language": "ja"
+}

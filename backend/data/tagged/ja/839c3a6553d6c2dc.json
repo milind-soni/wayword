@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "深川留萌道",
+      "translation": "Fukagawa-Rumoi Expressway",
+      "romanization": "Fukagawa-Rumoi-dō",
+      "bbox": [
+        390,
+        130,
+        550,
+        870
+      ],
+      "breakdown": "深川 (Fukagawa) and 留萌 (Rumoi) are place names in Hokkaido. 道 (dō) is an abbreviation meaning 'road' or 'expressway', commonly used in names of Japanese expressways."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a sign indicating the Fukagawa-Rumoi Expressway in Japan.",
+  "cultural_note": "This type of green, pentagon-shaped sign with white text is standard for indicating expressways in Japan, often including a route number (like E62), the Japanese name, and a romanized English name for international travelers. The 'E' prefix in the route number signifies an expressway within Japan's national network.",
+  "image_id": "839c3a6553d6c2dc",
+  "language": "ja"
+}

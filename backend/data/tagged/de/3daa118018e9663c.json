@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Vorsicht!\nFreilaufender Hund\n\nWenn Hund kommt,\nflach auf den Boden legen\nund auf Hilfe warten.\nWenn keine Hilfe kommt -\ndann ... Viel Glück !!!",
+      "translation": "Caution!\nFree-roaming Dog\n\nIf a dog comes,\nlie flat on the ground\nand wait for help.\nIf no help comes -\nthen ... Good Luck !!!",
+      "romanization": null,
+      "bbox": [
+        285,
+        380,
+        580,
+        770
+      ],
+      "breakdown": "'Vorsicht!' means 'Caution!' and is a common warning. 'Freilaufender Hund' translates to 'Free-roaming dog'; 'freilaufend' is a present participle used as an adjective. 'Wenn' (if/when) introduces subordinate clauses. 'flach auf den Boden legen' (lie flat on the ground) uses the verb 'legen' (to lay/put) as an imperative, implying 'lay yourself down'. 'auf Hilfe warten' means 'to wait for help'. 'Viel Glück' means 'Good Luck' and is a common expression."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "A2",
+  "where_youd_see_it": "This sign is commonly found at the entrance of a private property or garden, often as a humorous warning.",
+  "cultural_note": "This type of sign is typically a humorous exaggeration, playing on the stereotype of guard dogs or overly friendly pets. It's usually not meant to be taken as a serious safety instruction.",
+  "image_id": "3daa118018e9663c",
+  "language": "de"
+}

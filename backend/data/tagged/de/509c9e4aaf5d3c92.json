@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Hummelweeth",
+      "translation": "Hummelweeth",
+      "romanization": null,
+      "bbox": [
+        334,
+        381,
+        393,
+        614
+      ],
+      "breakdown": "This is a proper noun, a place name. 'Hummel' means 'bumblebee' and 'Weeth' is a regional Low German term often referring to a wet meadow or common land."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A1",
+  "where_youd_see_it": "You would see this on a directional sign at a road intersection, indicating the name of a village, hamlet, or area.",
+  "cultural_note": "Many place names in Germany have historical origins, often describing geographical features or historical events. 'Weeth' is a less common term in High German, more prevalent in northern German dialects (Low German), suggesting the location's regional linguistic heritage.",
+  "image_id": "509c9e4aaf5d3c92",
+  "language": "de"
+}

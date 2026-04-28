@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Rangierfahrten",
+      "translation": "Shunting operations",
+      "romanization": null,
+      "bbox": [
+        375,
+        420,
+        405,
+        550
+      ],
+      "breakdown": "'Rangierfahrten' is a compound noun, combining 'rangieren' (to shunt, to marshal trains) and 'Fahrten' (journeys, operations). It refers to the movement of railway rolling stock within a marshalling yard or station."
+    },
+    {
+      "original": "Halt",
+      "translation": "Stop",
+      "romanization": null,
+      "bbox": [
+        420,
+        420,
+        470,
+        540
+      ],
+      "breakdown": "'Halt' is a German imperative verb meaning 'stop!' or a noun meaning 'a stop'. Here, it functions as a strong command."
+    },
+    {
+      "original": "Blinklichtanlage einschalten",
+      "translation": "Switch on the flashing light system",
+      "romanization": null,
+      "bbox": [
+        495,
+        420,
+        555,
+        560
+      ],
+      "breakdown": "'Blinklichtanlage' is a compound noun meaning 'flashing light system' or 'flashing light signal'. 'einschalten' is a separable verb meaning 'to switch on' or 'to turn on'. The infinitive is used here for an instruction or command."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would see this sign at a railway yard or industrial siding where train shunting operations occur.",
+  "cultural_note": "Railway signs in Germany often use precise, technical language to ensure safety and clear communication among personnel. Instructions are frequently given in the infinitive form.",
+  "image_id": "4e2c28bac4ade5ff",
+  "language": "de"
+}

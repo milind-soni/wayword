@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "ショップエレベーター",
+      "translation": "Shop Elevator",
+      "romanization": "shoppu erebētā",
+      "bbox": [
+        30,
+        520,
+        80,
+        807
+      ],
+      "breakdown": "ショップ (shoppu) means 'shop' (loanword from English). エレベーター (erebētā) means 'elevator' (loanword from English). The phrase refers to an elevator for shops."
+    },
+    {
+      "original": "6F クリニックモール",
+      "translation": "6F Clinic Mall",
+      "romanization": "rokusufī kurinikku mōru",
+      "bbox": [
+        82,
+        640,
+        100,
+        787
+      ],
+      "breakdown": "6F (rokusufī) indicates the '6th floor'. クリニック (kurinikku) means 'clinic' (loanword from English). モール (mōru) means 'mall' (loanword from English). It specifies a clinic mall located on the 6th floor."
+    },
+    {
+      "original": "P9R 歯科・眼科・内科",
+      "translation": "P9R Dentistry, Ophthalmology, Internal Medicine",
+      "romanization": "P9R shika ganka naika",
+      "bbox": [
+        100,
+        687,
+        115,
+        800
+      ],
+      "breakdown": "P9R is a specific code or name. 歯科 (shika) means 'dentistry'. 眼科 (ganka) means 'ophthalmology'. 内科 (naika) means 'internal medicine'. The '・' (nakaten) is a Japanese mid-dot used to separate items in a list."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "B1",
+  "where_youd_see_it": "Inside a shopping mall or large station building, directing visitors to facilities.",
+  "cultural_note": "Japanese frequently uses Katakana for loanwords from English like 'shop', 'elevator', 'clinic', and 'mall'. This sign is a typical example of how these loanwords are combined with traditional Kanji (like for medical specialties) on public signage.",
+  "image_id": "5db99a1306632f70",
+  "language": "ja"
+}

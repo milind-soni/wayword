@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "清水町\n公共下水",
+      "translation": "Shimizu Town\nPublic Sewage",
+      "romanization": "Shimizu-chō\nKōkyō Gesui",
+      "bbox": [
+        280,
+        350,
+        720,
+        680
+      ],
+      "breakdown": "清水町 (Shimizu-chō) means 'Shimizu Town'. 清 (shimizu) is 'clear water', 町 (chō) is 'town' or 'district'. 公共 (Kōkyō) means 'public' (公: public, 共: together). 下水 (Gesui) means 'sewage' or 'drainage' (下: down, 水: water)."
+    }
+  ],
+  "category": "info",
+  "difficulty": "A2",
+  "where_youd_see_it": "On a utility access panel on a street or sidewalk.",
+  "cultural_note": "In Japan, utility covers and access panels often display the name of the municipality or the type of utility, sometimes with intricate designs. This helps identify the responsible authority for the infrastructure.",
+  "image_id": "784e5fad8133490f",
+  "language": "ja"
+}

@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Steinbruch\nVorsicht\nAbsturzgefahr",
+      "translation": "Stone Quarry\nCaution\nRisk of Falling",
+      "romanization": null,
+      "bbox": [
+        390,
+        560,
+        490,
+        690
+      ],
+      "breakdown": "\"Steinbruch\" (stone quarry) is a compound noun. \"Vorsicht\" (caution) is a common warning word. \"Absturzgefahr\" (danger of falling) is also a compound noun, combining \"Absturz\" (fall/descent) and \"Gefahr\" (danger)."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would see this sign near a quarry or excavation site, often at a viewpoint or path leading to a dangerous drop-off.",
+  "cultural_note": "German warning signs are often very direct and frequently use long compound nouns to precisely describe the nature of the danger, such as 'Absturzgefahr' (fall danger).",
+  "image_id": "09b371629aca79ed",
+  "language": "de"
+}

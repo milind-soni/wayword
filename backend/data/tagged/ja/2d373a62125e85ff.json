@@ -1,0 +1,61 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "SL 列車通過ご見学のお客様へ",
+      "translation": "To customers watching the SL train pass by",
+      "romanization": "SL Ressha Tsūka Go-kengaku no Okyakusama e",
+      "bbox": [
+        290,
+        180,
+        360,
+        820
+      ],
+      "breakdown": "SL (Steam Locomotive); 列車 (ressha: train); 通過 (tsūka: passing); ご (go: honorific prefix); 見学 (kengaku: observation, tour); のお客様 (no okyakusama: to customers); へ (e: to, towards)"
+    },
+    {
+      "original": "SL 列車通過の際、近づきすぎると煙突から出るススで衣類が汚れる場合がありますので、ご注意ください。",
+      "translation": "When the SL train passes, if you get too close, your clothes may get dirty from the soot coming out of the chimney, so please be careful.",
+      "romanization": "SL Ressha Tsūka no Sai, Chikazukisugiru to Entotsu kara Deru Susu de Irui ga Yogoreru Baai ga Arimasu node, Gochūi Kudasai.",
+      "bbox": [
+        380,
+        200,
+        580,
+        800
+      ],
+      "breakdown": "SL 列車通過 (SL ressha tsūka: SL train passing); の際 (no sai: at the time of); 近づきすぎる (chikazukisugiru: to get too close); と (to: if, when); 煙突 (entotsu: chimney); から出る (kara deru: coming out from); スス (susu: soot); で (de: by means of); 衣類 (irui: clothing); が汚れる (ga yogoreru: gets dirty); 場合があります (baai ga arimasu: there are cases where); ので (node: because, so); ご注意ください (gochūi kudasai: please be careful)"
+    },
+    {
+      "original": "●スス・煙等によるトラブルについては責任を負いかねますのでご了承ください。",
+      "translation": "Regarding troubles caused by soot, smoke, etc., we cannot take responsibility, so please understand.",
+      "romanization": "Susu・Kemuri tō ni yoru Toraburu ni tsuite wa Sekinin o Oikane masu node Go-ryōshō Kudasai.",
+      "bbox": [
+        600,
+        200,
+        680,
+        800
+      ],
+      "breakdown": "スス (susu: soot); 煙 (kemuri: smoke); 等 (tō: etc.); による (ni yoru: caused by); トラブル (toraburu: trouble); については (ni tsuite wa: regarding); 責任 (sekinin: responsibility); を負いかねます (o oikane masu: cannot take/bear); ので (node: because, so); ご了承ください (go-ryōshō kudasai: please understand)"
+    },
+    {
+      "original": "大井川鐵道 (株)",
+      "translation": "Oigawa Railway Co., Ltd.",
+      "romanization": "Ōigawa Tetsudō (Kabu)",
+      "bbox": [
+        680,
+        390,
+        720,
+        610
+      ],
+      "breakdown": "大井川 (Ōigawa: Oigawa, a place name); 鐵道 (Tetsudō: railway); (株) (kabu: abbreviation for 株式会社 kabushikigaisha, Co., Ltd.)"
+    }
+  ],
+  "category": "transit",
+  "difficulty": "B2",
+  "where_youd_see_it": "At a railway station or viewing area where steam locomotives pass.",
+  "cultural_note": "The Oigawa Railway is famous in Japan for operating several steam locomotives (SL), making them a popular tourist attraction. This sign specifically warns spectators about soot and smoke, which are inherent characteristics of steam trains.",
+  "image_id": "2d373a62125e85ff",
+  "language": "ja"
+}

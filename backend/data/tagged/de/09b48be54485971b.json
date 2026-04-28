@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Tipp des Monats",
+      "translation": "Tip of the Month",
+      "romanization": null,
+      "bbox": [
+        374,
+        432,
+        399,
+        625
+      ],
+      "breakdown": "Tipp (tip, masculine noun), des (of the, genitive masculine singular article), Monats (month, masculine noun in genitive singular)."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "A1",
+  "where_youd_see_it": "Inside a bookstore, on a promotional display.",
+  "cultural_note": "Hugendubel is one of the largest and most well-known bookstore chains in Germany.",
+  "image_id": "09b48be54485971b",
+  "language": "de"
+}

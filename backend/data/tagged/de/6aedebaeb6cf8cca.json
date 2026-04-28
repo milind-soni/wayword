@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "VORSICHT!",
+      "translation": "CAUTION!",
+      "romanization": null,
+      "bbox": [
+        342,
+        303,
+        403,
+        696
+      ],
+      "breakdown": "Vorsicht (noun) means 'caution' or 'attention'. Used as an exclamation to warn."
+    },
+    {
+      "original": "Kein Trinkwasser",
+      "translation": "No Drinking Water",
+      "romanization": null,
+      "bbox": [
+        602,
+        305,
+        663,
+        693
+      ],
+      "breakdown": "'Kein' is the negative article meaning 'no'. 'Trinkwasser' is a compound noun: 'Trinken' (to drink) + 'Wasser' (water) = 'drinking water'."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "A1",
+  "where_youd_see_it": "You would see this on a tap, pipe, or container indicating that the water is not safe to drink.",
+  "cultural_note": "This type of warning sign is a standard international symbol to indicate non-potable water, often found on industrial sites, ships, or water sources where purification is not guaranteed.",
+  "image_id": "6aedebaeb6cf8cca",
+  "language": "de"
+}

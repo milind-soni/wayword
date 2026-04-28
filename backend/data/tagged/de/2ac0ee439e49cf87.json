@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Stockheim [Oberh.]",
+      "translation": "Stockheim (Upper Hesse)",
+      "romanization": null,
+      "bbox": [
+        400,
+        150,
+        550,
+        850
+      ],
+      "breakdown": "Stockheim is a place name. '[Oberh.]' is an abbreviation for 'Oberhessen' (Upper Hesse), a region in Germany, used to differentiate between places that share the same name."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "A2",
+  "where_youd_see_it": "On a building, likely a train station, identifying the town.",
+  "cultural_note": "Many German towns share names. Regional additions like '[Oberh.]' (Oberhessen) are commonly used in signs, schedules, and addresses to distinguish them.",
+  "image_id": "2ac0ee439e49cf87",
+  "language": "de"
+}

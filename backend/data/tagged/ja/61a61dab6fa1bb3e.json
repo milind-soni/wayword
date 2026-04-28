@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "Japanese",
+  "regions": [
+    {
+      "original": "所沢駅西口通り",
+      "translation": "Tokorozawa Station West Exit Street",
+      "romanization": "Tokorozawaekinishiguchi dori",
+      "bbox": [
+        485,
+        370,
+        550,
+        730
+      ],
+      "breakdown": "所沢 (Tokorozawa - place name), 駅 (eki - station), 西口 (nishiguchi - west exit), 通り (dori - street)"
+    }
+  ],
+  "category": "info",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a street sign near Tokorozawa Station in Japan.",
+  "cultural_note": "Japanese street names often incorporate nearby landmarks like train station names and directions (e.g., west exit) to help with navigation. The English romanization is often provided directly on the sign.",
+  "image_id": "61a61dab6fa1bb3e",
+  "language": "ja"
+}

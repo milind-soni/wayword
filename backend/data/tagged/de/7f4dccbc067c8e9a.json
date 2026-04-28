@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Schweriner Straße",
+      "translation": "Schwerin Street",
+      "romanization": null,
+      "bbox": [
+        83,
+        270,
+        157,
+        359
+      ],
+      "breakdown": "Schweriner is an adjective derived from the city name Schwerin. Straße means street. This is a common way to name streets in Germany."
+    },
+    {
+      "original": "Pampower Straße",
+      "translation": "Pampow Street",
+      "romanization": null,
+      "bbox": [
+        125,
+        346,
+        185,
+        438
+      ],
+      "breakdown": "Pampower is an adjective derived from the place name Pampow. Straße means street. This is a common way to name streets in Germany."
+    },
+    {
+      "original": "1914\n1918\nUns to Ihrem Angedenken\nDei Stralendörper Dorp un Hof",
+      "translation": "1914\n1918\nTo your memory\nThe village and farms of Stralendorf",
+      "romanization": null,
+      "bbox": [
+        93,
+        156,
+        370,
+        260
+      ],
+      "breakdown": "This inscription is in Low German (Plattdeutsch), a regional dialect. 'Uns to Ihrem Angedenken' translates to 'To your memory' (High German: 'Euch zum Andenken'). 'Dei Stralendörper Dorp un Hof' means 'The village and farms of Stralendorf' (High German: 'Die Stralendorfer Dorf und Hof'). It commemorates those from Stralendorf who died between 1914 and 1918 (World War I)."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would see this war memorial and street signs in a small German town or village square.",
+  "cultural_note": "War memorials listing local fallen soldiers from World War I and II are common in German towns. Many older memorials, especially in northern Germany, feature dialectal inscriptions like this one from Low German (Plattdeutsch), reflecting local identity.",
+  "image_id": "7f4dccbc067c8e9a",
+  "language": "de"
+}

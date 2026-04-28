@@ -1,0 +1,73 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Kaiserlich Post",
+      "translation": "Imperial Post",
+      "romanization": null,
+      "bbox": [
+        570,
+        247,
+        628,
+        465
+      ],
+      "breakdown": "'Kaiserlich' (imperial) is an adjective, 'Post' (mail, post office) is a noun. Together, it refers to the Imperial Post."
+    },
+    {
+      "original": "QUAR",
+      "translation": "Quarter / Lodging (abbreviated)",
+      "romanization": null,
+      "bbox": [
+        670,
+        322,
+        695,
+        427
+      ],
+      "breakdown": "An abbreviation, likely for 'Quartier' (quarter, lodging or station) from Latin 'quartarius', often used in historical German contexts for a stopping place."
+    },
+    {
+      "original": "Reichs",
+      "translation": "of the Empire / Imperial",
+      "romanization": null,
+      "bbox": [
+        575,
+        622,
+        600,
+        712
+      ],
+      "breakdown": "The genitive form of 'Reich' (empire), indicating possession or relation to the empire."
+    },
+    {
+      "original": "SALVA",
+      "translation": "Safe / Preserved",
+      "romanization": null,
+      "bbox": [
+        615,
+        607,
+        640,
+        690
+      ],
+      "breakdown": "A Latin word meaning 'safe' or 'preserved', often part of mottos, e.g., 'salva res' (safe thing) or 'salva publica' (public safety)."
+    },
+    {
+      "original": "DIA.",
+      "translation": "Day / Daily (abbreviated)",
+      "romanization": null,
+      "bbox": [
+        675,
+        614,
+        700,
+        674
+      ],
+      "breakdown": "An abbreviation from Latin, likely for 'Diarium' (journal, daily record) or 'Dies' (day). Could be part of a phrase like 'per diem' (per day)."
+    }
+  ],
+  "category": "bureaucratic",
+  "difficulty": "B2",
+  "where_youd_see_it": "You would see this sign on the facade of an old building, indicating a historic post office or postal station.",
+  "cultural_note": "This sign likely refers to the 'Kaiserliche Reichspost' (Imperial Post Office), the official postal service of the Holy Roman Empire. The Thurn und Taxis family played a crucial role in establishing and managing this early international postal system in Europe.",
+  "image_id": "0e67b8317c8cc38b",
+  "language": "de"
+}

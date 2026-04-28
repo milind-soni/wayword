@@ -1,0 +1,73 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "ALTE APOTHEKE",
+      "translation": "Old Pharmacy",
+      "romanization": null,
+      "bbox": [
+        484,
+        381,
+        563,
+        672
+      ],
+      "breakdown": "\"Alte\" is the feminine form of \"alt\" (old), agreeing with \"Apotheke\" (pharmacy), a feminine noun. The phrase means \"Old Pharmacy\"."
+    },
+    {
+      "original": "Fingernagel-Design",
+      "translation": "Nail Design",
+      "romanization": null,
+      "bbox": [
+        775,
+        663,
+        796,
+        755
+      ],
+      "breakdown": "A compound noun: \"Fingernagel\" (fingernail) + \"Design\" (design)."
+    },
+    {
+      "original": "Fingernagel Make-up",
+      "translation": "Nail Make-up",
+      "romanization": null,
+      "bbox": [
+        799,
+        663,
+        820,
+        770
+      ],
+      "breakdown": "A compound term: \"Fingernagel\" (fingernail) + \"Make-up\" (English loanword for cosmetics)."
+    },
+    {
+      "original": "Zahnschmuck",
+      "translation": "Tooth Jewelry",
+      "romanization": null,
+      "bbox": [
+        775,
+        781,
+        796,
+        858
+      ],
+      "breakdown": "A compound noun: \"Zahn\" (tooth) + \"Schmuck\" (jewelry)."
+    },
+    {
+      "original": "Piercing",
+      "translation": "Piercing",
+      "romanization": null,
+      "bbox": [
+        799,
+        781,
+        820,
+        843
+      ],
+      "breakdown": "An English loanword meaning the act or practice of body piercing."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "A1",
+  "where_youd_see_it": "On the facade and windows of a building housing a pharmacy and beauty services in a German town.",
+  "cultural_note": "In Germany, pharmacies often use a prominent red 'A' (for Apotheke) as a symbol, frequently featuring a serpent and chalice, as seen above the entrance here. The combination of a traditional pharmacy with modern cosmetic and body modification services in the same building is not uncommon, indicating diverse offerings under one roof or separate businesses sharing the premises.",
+  "image_id": "5ffedda74e74fe7e",
+  "language": "de"
+}

@@ -1,0 +1,73 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "ハイキングコースは、自然道です。\n履き慣れた運動靴などで歩きましょう。",
+      "translation": "The hiking trail is a natural path. Please walk in comfortable athletic shoes, etc.",
+      "romanization": "Haikingukōsu wa, shizendō desu. Hakinareta undōgutsu nado de arukimashō.",
+      "bbox": [
+        327,
+        85,
+        439,
+        440
+      ],
+      "breakdown": "ハイキングコース (haikingukōsu): Hiking course. は (wa): Topic particle. 自然道 (shizendō): Natural path/trail. です (desu): Polite copula. 履き慣れた (hakinareta): Worn-in/comfortable (from 履く haku 'to wear' + 慣れる nareru 'to get used to'). 運動靴 (undōgutsu): Athletic shoes/sneakers. など (nado): Et cetera. で (de): Particle indicating means. 歩きましょう (arukimashō): Let's walk (volitional form of 歩く aruku 'to walk')."
+    },
+    {
+      "original": "ゴミは持ち帰りましょう。",
+      "translation": "Please take your garbage home.",
+      "romanization": "Gomi wa mochikaerimashō.",
+      "bbox": [
+        627,
+        85,
+        685,
+        395
+      ],
+      "breakdown": "ゴミ (gomi): Garbage/trash. は (wa): Topic particle. 持ち帰りましょう (mochikaerimashō): Let's take it home (volitional form of 持ち帰る mochikaeru 'to take something back home')."
+    },
+    {
+      "original": "火気の使用は禁止です。",
+      "translation": "The use of fire is prohibited.",
+      "romanization": "Kaki no shiyō wa kinshi desu.",
+      "bbox": [
+        327,
+        480,
+        379,
+        790
+      ],
+      "breakdown": "火気 (kaki): Fire/flames. の (no): Possessive particle. 使用 (shiyō): Use. は (wa): Topic particle. 禁止 (kinshi): Prohibition. です (desu): Polite copula."
+    },
+    {
+      "original": "バイクや自転車の乗り入れは禁止です。",
+      "translation": "Riding of motorbikes and bicycles is prohibited.",
+      "romanization": "Baiku ya jitensha no noriire wa kinshi desu.",
+      "bbox": [
+        477,
+        480,
+        530,
+        890
+      ],
+      "breakdown": "バイク (baiku): Motorbike. や (ya): Particle indicating 'and, among other things'. 自転車 (jitensha): Bicycle. の (no): Possessive particle. 乗り入れ (noriire): Entry/access (by vehicle). は (wa): Topic particle. 禁止 (kinshi): Prohibition. です (desu): Polite copula."
+    },
+    {
+      "original": "夏と秋はハチに注意してください。",
+      "translation": "Please be careful of bees in summer and autumn.",
+      "romanization": "Natsu to aki wa hachi ni chūi shite kudasai.",
+      "bbox": [
+        627,
+        480,
+        685,
+        930
+      ],
+      "breakdown": "夏 (natsu): Summer. と (to): And. 秋 (aki): Autumn/Fall. は (wa): Topic particle. ハチ (hachi): Bee/wasp. に (ni): Particle indicating focus. 注意してください (chūi shite kudasai): Please be careful (from 注意する chūi suru 'to be careful' + ~てください ~te kudasai 'please do ~')."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would see this sign at the entrance to a park, nature preserve, or hiking trail.",
+  "cultural_note": "In Japan, it is very common to see signs at natural attractions asking visitors to take their garbage home, as public trash cans are often sparse to minimize littering and discourage animals.",
+  "image_id": "10f66fe940398758",
+  "language": "ja"
+}

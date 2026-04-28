@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Herzlich",
+      "translation": "Warmly / Cordially",
+      "romanization": null,
+      "bbox": [
+        767,
+        850,
+        800,
+        925
+      ],
+      "breakdown": "Herzlich: Adjective meaning 'hearty', 'warm', or 'cordial'. It is often used as part of 'Herzlich willkommen' (Welcome)."
+    }
+  ],
+  "category": "info",
+  "difficulty": "A1",
+  "where_youd_see_it": "On an information board, often as part of a welcome message or greeting.",
+  "cultural_note": null,
+  "image_id": "892221d1212f1181",
+  "language": "de"
+}

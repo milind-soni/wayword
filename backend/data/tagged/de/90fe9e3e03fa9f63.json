@@ -1,0 +1,37 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "ACHTUNG! Blitzspannung",
+      "translation": "ATTENTION! Lightning voltage",
+      "romanization": null,
+      "bbox": [
+        595,
+        120,
+        660,
+        880
+      ],
+      "breakdown": "ACHTUNG! (Attention!), Blitzspannung (Blitz = lightning, Spannung = voltage; combined meaning danger from lightning strike/voltage)."
+    },
+    {
+      "original": "Bei Gewitter Bereich räumen und nicht betreten",
+      "translation": "During a thunderstorm, evacuate the area and do not enter",
+      "romanization": null,
+      "bbox": [
+        675,
+        120,
+        770,
+        880
+      ],
+      "breakdown": "Bei Gewitter (during thunderstorm), Bereich räumen (area evacuate), und nicht betreten (and do not enter)."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would see this sign in an open area, potentially near tall structures or on a path, to warn people about the danger of lightning during a thunderstorm.",
+  "cultural_note": "German warning signs are often very direct and explicit, using strong imperatives. The compound noun 'Blitzspannung' (lightning voltage) clearly conveys the specific danger.",
+  "image_id": "90fe9e3e03fa9f63",
+  "language": "de"
+}

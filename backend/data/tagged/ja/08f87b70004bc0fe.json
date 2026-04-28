@@ -1,0 +1,97 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "黒ごま有料道路",
+      "translation": "Kurogoma Toll Road",
+      "romanization": "Kurogoma Yūryōdōro",
+      "bbox": [
+        126,
+        381,
+        284,
+        617
+      ],
+      "breakdown": "黒ごま (Kurogoma, a place name) + 有料 (yūryō, toll/charged) + 道路 (dōro, road)."
+    },
+    {
+      "original": "黒ごま 岡山",
+      "translation": "Kurogoma, Okayama",
+      "romanization": "Kurogoma Okayama",
+      "bbox": [
+        512,
+        396,
+        670,
+        608
+      ],
+      "breakdown": "黒ごま (Kurogoma, a place name) + 岡山 (Okayama, a city/prefecture name)."
+    },
+    {
+      "original": "出口",
+      "translation": "Exit",
+      "romanization": "Deguchi",
+      "bbox": [
+        784,
+        755,
+        942,
+        856
+      ],
+      "breakdown": "出 (de, to go out) + 口 (kuchi, mouth) combine to mean 'exit'."
+    },
+    {
+      "original": "黒ごま有料",
+      "translation": "Kurogoma Toll",
+      "romanization": "Kurogoma Yūryō",
+      "bbox": [
+        280,
+        136,
+        414,
+        176
+      ],
+      "breakdown": "黒ごま (Kurogoma, a place name) + 有料 (yūryō, toll/charged)."
+    },
+    {
+      "original": "普通車一〇〇円別料金",
+      "translation": "Standard car 100 yen, separate fee",
+      "romanization": "Futsūsha hyaku-en betsu ryōkin",
+      "bbox": [
+        426,
+        49,
+        764,
+        116
+      ],
+      "breakdown": "普通車 (futsūsha, standard/regular car) + 一〇〇円 (hyaku-en, 100 yen) + 別料金 (betsuryōkin, separate/additional fee)."
+    },
+    {
+      "original": "黒ごま有料 I.C は",
+      "translation": "Kurogoma Toll Interchange is...",
+      "romanization": "Kurogoma Yūryō Ai Shī wa",
+      "bbox": [
+        280,
+        264,
+        478,
+        302
+      ],
+      "breakdown": "黒ごま (Kurogoma, a place name) + 有料 (yūryō, toll) + I.C. (interchange) + は (wa, topic particle)."
+    },
+    {
+      "original": "黒ごま有料に直結",
+      "translation": "Directly connects to Kurogoma Toll",
+      "romanization": "Kurogoma Yūryō ni chokketsu",
+      "bbox": [
+        540,
+        194,
+        764,
+        239
+      ],
+      "breakdown": "黒ごま (Kurogoma, a place name) + 有料 (yūryō, toll) + に (ni, particle indicating direction/connection) + 直結 (chokketsu, direct connection)."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a highway or toll road in Japan.",
+  "cultural_note": "Toll roads (有料道路, yūryōdōro) are common in Japan. 'I.C.' stands for Interchange. The character '〇' (maru) is often used for the number zero, so '一〇〇円' (hyaku-en) means '100 yen'.",
+  "image_id": "08f87b70004bc0fe",
+  "language": "ja"
+}

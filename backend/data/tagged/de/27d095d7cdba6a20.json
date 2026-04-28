@@ -1,0 +1,97 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Bedienungsanweisung",
+      "translation": "Operating instructions",
+      "romanization": null,
+      "bbox": [
+        38,
+        280,
+        80,
+        715
+      ],
+      "breakdown": "A compound noun: \"Bedienung\" (operation, service) + \"Anweisung\" (instruction). This is a common term for manuals."
+    },
+    {
+      "original": "der kombinierten Normal- und Schutzbelüftungsanlagen",
+      "translation": "of the combined normal and protective ventilation systems",
+      "romanization": null,
+      "bbox": [
+        96,
+        280,
+        116,
+        755
+      ],
+      "breakdown": "\"der\" (genitive plural article), \"kombinierten\" (combined, past participle used as an adjective), \"Normalbelüftung\" (normal ventilation) and \"Schutzbelüftung\" (protective ventilation) are compound nouns, and \"Anlagen\" (systems/facilities)."
+    },
+    {
+      "original": "Bei BELEGTEM Schutzraum",
+      "translation": "For OCCUPIED protected room",
+      "romanization": null,
+      "bbox": [
+        168,
+        552,
+        190,
+        788
+      ],
+      "breakdown": "\"Bei\" (in case of, for), \"belegtem\" (occupied, dative masculine adjective from \"belegen\"). \"Schutzraum\" is a compound noun: \"Schutz\" (protection) + \"Raum\" (room)."
+    },
+    {
+      "original": "Rot gekennzeichnete Zu- und Abluftventile der natürlichen Lüftung in den Wänden schließen",
+      "translation": "Close red marked supply and exhaust valves of the natural ventilation in the walls",
+      "romanization": null,
+      "bbox": [
+        224,
+        552,
+        266,
+        955
+      ],
+      "breakdown": "\"Rot\" (red), \"gekennzeichnete\" (marked, past participle as adjective), \"Zu- und Abluftventile\" (supply and exhaust valves, a compound noun), \"der natürlichen Lüftung\" (of the natural ventilation, genitive), \"in den Wänden\" (in the walls), \"schließen\" (to close, infinitive used as an imperative)."
+    },
+    {
+      "original": "Am Belüftungsgerät 4 Schalthebel auf grün stellen",
+      "translation": "On the ventilation unit, set 4 toggle switches to green",
+      "romanization": null,
+      "bbox": [
+        359,
+        560,
+        396,
+        920
+      ],
+      "breakdown": "\"Am\" (contraction of \"an dem\", at the), \"Belüftungsgerät\" (ventilation unit, a compound noun), \"Schalthebel\" (toggle switch/lever, a compound noun), \"auf grün\" (to green), \"stellen\" (to set/place, infinitive used as an imperative)."
+    },
+    {
+      "original": "ACHTUNG: Äußere und innere Türe der Schleuse NIE gleichzeitig öffnen, nur nacheinander",
+      "translation": "ATTENTION: Never open outer and inner door of the airlock simultaneously, only one after the other",
+      "romanization": null,
+      "bbox": [
+        558,
+        552,
+        599,
+        955
+      ],
+      "breakdown": "\"Achtung\" (attention), \"äußere\" (outer) and \"innere\" (inner) are adjectives, \"Türe\" (door, alternative spelling of \"Tür\"), \"der Schleuse\" (of the airlock, genitive), \"NIE\" (never), \"gleichzeitig\" (simultaneously), \"öffnen\" (to open, infinitive as imperative), \"nur nacheinander\" (only one after the other)."
+    },
+    {
+      "original": "ARTOS LUFTTECHNIK GMBH HAMBURG · MÜNCHEN",
+      "translation": "ARTOS AIR TECHNOLOGY LTD HAMBURG · MUNICH",
+      "romanization": null,
+      "bbox": [
+        812,
+        560,
+        867,
+        940
+      ],
+      "breakdown": "\"Lufttechnik\" (air technology) is a compound noun. \"GmbH\" is the abbreviation for \"Gesellschaft mit beschränkter Haftung\" (Limited Liability Company), a common legal form for companies in German-speaking countries. Hamburg and München (Munich) are cities in Germany."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B2",
+  "where_youd_see_it": "You would typically see this sign in a technical room, a shelter, or a facility requiring specialized ventilation systems, like a bunker.",
+  "cultural_note": "Technical German frequently uses long compound nouns like those seen here (e.g., 'Bedienungsanweisung', 'Schutzbelüftungsanlagen', 'Belüftungsgerät'). These nouns combine multiple concepts into a single word, often providing precise and unambiguous descriptions, which is characteristic of German technical and official language.",
+  "image_id": "27d095d7cdba6a20",
+  "language": "de"
+}

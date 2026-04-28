@@ -1,0 +1,61 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "名寄遠別線・板谷峠の台線",
+      "translation": "Nayoro Enbetsu Line and Itayatōge Daiko Line",
+      "romanization": "Nayoro Enbetsu-sen - Itayatōge no Daiko-sen",
+      "bbox": [
+        120,
+        290,
+        160,
+        700
+      ],
+      "breakdown": "名寄 (Nayoro): Place name. 遠別 (Enbetsu): Place name. 線 (sen): Line, route. ・: Separator. 板谷峠 (Itayatōge): Mountain pass name. の (no): Possessive particle. 台線 (Daiko-sen): Line, route."
+    },
+    {
+      "original": "この先通り抜けはできません。",
+      "translation": "You cannot pass through ahead.",
+      "romanization": "Kono saki tōrinuke wa dekimasen.",
+      "bbox": [
+        165,
+        290,
+        205,
+        700
+      ],
+      "breakdown": "この先 (kono saki): Ahead, beyond this point. 通り抜け (tōrinuke): Passing through, through passage. は (wa): Topic particle. できません (dekimasen): Cannot do (negative potential form of する 'suru' - to do, polite form)."
+    },
+    {
+      "original": "名寄遠別線",
+      "translation": "Nayoro Enbetsu Line (Closed)",
+      "romanization": "Nayoro Enbetsu-sen",
+      "bbox": [
+        345,
+        520,
+        385,
+        700
+      ],
+      "breakdown": "名寄 (Nayoro): Place name. 遠別 (Enbetsu): Place name. 線 (sen): Line, route. (The adjacent 'no entry' sign with '通行止' indicates this line is closed)."
+    },
+    {
+      "original": "板谷峠の台線",
+      "translation": "Itayatōge Daiko Line (Closed)",
+      "romanization": "Itayatōge no Daiko-sen",
+      "bbox": [
+        545,
+        520,
+        585,
+        700
+      ],
+      "breakdown": "板谷峠 (Itayatōge): Mountain pass name. の (no): Possessive particle. 台線 (Daiko-sen): Line, route. (The adjacent 'no entry' sign with '通行止' indicates this line is closed)."
+    }
+  ],
+  "category": "traffic",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a road, indicating that certain routes or sections are closed or have no through passage.",
+  "cultural_note": "Japanese road signs often use explicit '通行止' (Tsūkōdome, Road Closed) in conjunction with 'no entry' symbols to clearly indicate impassable routes, sometimes due to weather, construction, or road conditions.",
+  "image_id": "22559a2970c5721f",
+  "language": "ja"
+}

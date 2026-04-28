@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "HOMÖO-\nPATHISCHE\nOFFIZIN",
+      "translation": "Homeopathic Dispensary",
+      "romanization": null,
+      "bbox": [
+        220,
+        150,
+        680,
+        570
+      ],
+      "breakdown": "Homöo-pathisch: (from 'Homöopathie') homeopathic, an adjective. Offizin: a noun meaning 'dispensary', 'pharmacy', or a 'formal office/practice', often used for a medical or pharmaceutical establishment. Together, it denotes a homeopathic practice or dispensary."
+    }
+  ],
+  "category": "info",
+  "difficulty": "B1",
+  "where_youd_see_it": "On the door or entrance of a building housing a homeopathic practice.",
+  "cultural_note": "Homeopathy is a widely recognized form of alternative medicine in Germany, and it's common to find dedicated 'Homöopathische Offizin' or 'Praxis für Homöopathie' (practice for homeopathy).",
+  "image_id": "82e98946b77b91d0",
+  "language": "de"
+}

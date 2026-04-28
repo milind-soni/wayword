@@ -1,0 +1,73 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "大阪 堀川五条",
+      "translation": "Osaka / Horikawa Gojo",
+      "romanization": "Ōsaka / Horikawagojō",
+      "bbox": [
+        92,
+        286,
+        141,
+        418
+      ],
+      "breakdown": "大阪 (Ōsaka) is a major city in Japan. 堀川五条 (Horikawagojō) is a specific intersection or area in Kyoto. The upward arrow on the sign indicates these destinations are straight ahead."
+    },
+    {
+      "original": "奈良 宇治",
+      "translation": "Nara / Uji",
+      "romanization": "Nara / Uji",
+      "bbox": [
+        166,
+        255,
+        217,
+        308
+      ],
+      "breakdown": "奈良 (Nara) and 宇治 (Uji) are cities in Japan famous for their historical sites. The left arrow indicates these destinations are to the left."
+    },
+    {
+      "original": "1 山科駅前",
+      "translation": "Route 1 / In front of Yamashina Station",
+      "romanization": "Ichi / Yamashinaekimae",
+      "bbox": [
+        166,
+        343,
+        217,
+        422
+      ],
+      "breakdown": "1 (Ichi) refers to Route 1. 山科駅前 (Yamashinaekimae) means 'in front of Yamashina Station', with 駅 (eki) meaning station and 前 (mae) meaning front. The right arrow indicates this destination is to the right."
+    },
+    {
+      "original": "外環状線",
+      "translation": "Outer Ring Road",
+      "romanization": "Gaikanjōsen",
+      "bbox": [
+        261,
+        290,
+        282,
+        410
+      ],
+      "breakdown": "外 (gai) means outer, 環状 (kanjō) means ring or loop, and 線 (sen) means line or road. This refers to a major road that encircles an area."
+    },
+    {
+      "original": "阪神高速 京都線 250m",
+      "translation": "Hanshin Expressway Kyoto Route 250m",
+      "romanization": "Hanshin Kōsoku Kyōto Sen Nihyakugojūmētoru",
+      "bbox": [
+        311,
+        251,
+        340,
+        410
+      ],
+      "breakdown": "阪神高速 (Hanshin Kōsoku) refers to the Hanshin Expressway. 京都線 (Kyōto Sen) means the Kyoto Route. '250m' indicates the distance to the entrance or turn-off for this route."
+    }
+  ],
+  "category": "transit",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a road or highway in Japan, guiding drivers to specific cities, stations, or routes.",
+  "cultural_note": "Japanese road signs frequently include both Japanese characters (Kanji, Hiragana, Katakana) and Romaji (romanized Japanese) to assist both local and international drivers. The suffix '駅前' (ekimae), meaning 'in front of the station', is a common indicator for areas around train stations, which are often major commercial and transportation hubs.",
+  "image_id": "908710098062ea74",
+  "language": "ja"
+}

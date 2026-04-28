@@ -1,0 +1,73 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "質屋",
+      "translation": "Pawn shop",
+      "romanization": "Shichiya",
+      "bbox": [
+        80,
+        470,
+        170,
+        580
+      ],
+      "breakdown": "質 (shichi) means 'pawn' or 'quality', and 屋 (ya) means 'shop' or 'store'."
+    },
+    {
+      "original": "キンコンキン",
+      "translation": "Kinkonkin (store name)",
+      "romanization": "Kinkonkin",
+      "bbox": [
+        200,
+        420,
+        800,
+        680
+      ],
+      "breakdown": "This is a stylized store name in Katakana. 'Kin' (金) means 'gold' or 'money', and the sound 'kinkon' often evokes a bell or chimes, possibly hinting at valuables or transactions."
+    },
+    {
+      "original": "貴金属積質商店",
+      "translation": "Precious Metals Pawn Shop",
+      "romanization": "Kikinzoku tsumishichi shōten",
+      "bbox": [
+        310,
+        170,
+        800,
+        250
+      ],
+      "breakdown": "貴金属 (kikinzoku) means 'precious metals'; 積質 (tsumishichi) means 'pawned goods' or 'accumulated pawned items'; 商店 (shōten) means 'shop' or 'store'."
+    },
+    {
+      "original": "24時間営業",
+      "translation": "24-hour operation",
+      "romanization": "Nijūyon jikan eigyō",
+      "bbox": [
+        350,
+        20,
+        480,
+        320
+      ],
+      "breakdown": "24 (nijūyon) means '24'; 時間 (jikan) means 'hours'; 営業 (eigyō) means 'business' or 'operation'."
+    },
+    {
+      "original": "名鉄協",
+      "translation": "Meitetsu Co./Association",
+      "romanization": "Meitetsu Kyō",
+      "bbox": [
+        550,
+        20,
+        670,
+        320
+      ],
+      "breakdown": "名鉄 (Meitetsu) is the name of a major railway company in Japan; 協 (kyō) is an abbreviation for 協会 (kyōkai - association) or 協力 (kyōryoku - cooperation), indicating affiliation."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a street in a Japanese city, indicating a pawn shop and 24-hour parking services, often associated with a large transport company.",
+  "cultural_note": "Meitetsu (Nagoya Railroad) is a prominent private railway company in the Chubu region of Japan, particularly in Aichi Prefecture. Like many large railway companies in Japan, they often diversify into various businesses including real estate, retail, and parking facilities. Pawn shops (質屋, shichiya) are common in Japan, often dealing in valuable items like precious metals, jewelry, and luxury brand goods.",
+  "image_id": "32507cb681c36c4f",
+  "language": "ja"
+}

@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "Bahnbetrieb",
+      "translation": "Railway operation",
+      "romanization": null,
+      "bbox": [
+        595,
+        230,
+        744,
+        760
+      ],
+      "breakdown": "This is a compound noun: 'Bahn' (rail/train) + 'Betrieb' (operation/activity)."
+    }
+  ],
+  "category": "warning",
+  "difficulty": "A2",
+  "where_youd_see_it": "You would see this sign near railway tracks, especially at a level crossing or in areas where trains operate.",
+  "cultural_note": "The primary sign above, featuring an exclamation mark within a red triangle, is a general danger sign (Gefahrenzeichen) in Germany. The text 'Bahnbetrieb' acts as a supplementary sign (Zusatzzeichen), specifying the nature of the danger or warning, in this case, related to railway activity.",
+  "image_id": "7cc0dd20e53c73ac",
+  "language": "de"
+}

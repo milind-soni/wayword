@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "恵迪寮同窓会",
+      "translation": "Keiteki-ryo Alumni Association",
+      "romanization": "Keiteki-ryō Dōsōkai",
+      "bbox": [
+        684,
+        329,
+        751,
+        664
+      ],
+      "breakdown": "恵迪寮 (Keiteki-ryō) is the name of a specific dormitory (寮) at Hokkaido University. 同窓会 (Dōsōkai) means 'alumni association' or 'class reunion' (同: same, 窓: window, 会: association)."
+    }
+  ],
+  "category": "bureaucratic",
+  "difficulty": "B1",
+  "where_youd_see_it": "You would see this banner at an alumni association event, likely for a university dormitory.",
+  "cultural_note": "Keiteki-ryo (恵迪寮) is a famous and historic male dormitory at Hokkaido University, known for its traditions and independent student management. Its alumni association is a significant group.",
+  "image_id": "3b8113f1038721c0",
+  "language": "ja"
+}

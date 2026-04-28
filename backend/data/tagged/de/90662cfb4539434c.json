@@ -1,0 +1,25 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "ELEKTR. HAUSHALTGERÄTE",
+      "translation": "Electrical Household Appliances",
+      "romanization": null,
+      "bbox": [
+        140,
+        180,
+        260,
+        880
+      ],
+      "breakdown": "ELEKTR. is an abbreviation for 'elektrisch' (electrical). HAUSHALTGERÄTE is a compound noun formed from 'Haushalt' (household) and 'Geräte' (appliances/devices)."
+    }
+  ],
+  "category": "shop",
+  "difficulty": "A2",
+  "where_youd_see_it": "You'd see this sign on the facade of a store selling electronics or home appliances.",
+  "cultural_note": "German frequently uses compound nouns, often written as a single word (e.g., 'Haushaltgeräte'). Abbreviations like 'ELEKTR.' are also common on signs.",
+  "image_id": "90662cfb4539434c",
+  "language": "de"
+}

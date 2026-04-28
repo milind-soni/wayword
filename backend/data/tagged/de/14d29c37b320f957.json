@@ -1,0 +1,49 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "de",
+  "regions": [
+    {
+      "original": "NOCH 21 TAGE BIS ZUM FINALE",
+      "translation": "Still 21 DAYS UNTIL THE FINAL",
+      "romanization": null,
+      "bbox": [
+        422,
+        290,
+        478,
+        520
+      ],
+      "breakdown": "'Noch' means 'still' or 'yet'. 'Tage' is the plural of 'Tag' (day). 'Bis' means 'until'. 'Zum' is a contraction of 'zu dem' (to the/for the). 'Finale' means 'final'."
+    },
+    {
+      "original": "FUNKUHREN",
+      "translation": "RADIO CONTROLLED WATCHES",
+      "romanization": null,
+      "bbox": [
+        540,
+        410,
+        555,
+        500
+      ],
+      "breakdown": "A compound noun: 'Funk' (radio) + 'Uhren' (clocks/watches, plural of 'Uhr'). It refers to watches that synchronize with a time signal."
+    },
+    {
+      "original": "FIFA WM-STADT",
+      "translation": "FIFA WORLD CUP CITY",
+      "romanization": null,
+      "bbox": [
+        460,
+        650,
+        475,
+        750
+      ],
+      "breakdown": "'FIFA' is the abbreviation for Fédération Internationale de Football Association. 'WM' stands for 'Weltmeisterschaft' (World Cup). 'Stadt' means 'city'."
+    }
+  ],
+  "category": "info",
+  "difficulty": "A2",
+  "where_youd_see_it": "On a large billboard in a city during a major sporting event.",
+  "cultural_note": "Germany hosted the FIFA World Cup in 2006. Signs like this, counting down to the final and designating host cities, were common nationwide to build excitement and welcome international visitors.",
+  "image_id": "14d29c37b320f957",
+  "language": "de"
+}

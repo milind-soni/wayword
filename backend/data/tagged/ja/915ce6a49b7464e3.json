@@ -1,0 +1,61 @@
+{
+  "usable": true,
+  "reject_reason": null,
+  "language_detected": "ja",
+  "regions": [
+    {
+      "original": "危険！\n使用禁止\n近づかないで！",
+      "translation": "Danger!\nDo not use!\nDo not approach!",
+      "romanization": "Kiken! Shiyō kinshi Chikazukanai de!",
+      "bbox": [
+        147,
+        345,
+        334,
+        588
+      ],
+      "breakdown": "危険 (kiken): danger. 使用禁止 (shiyō kinshi): use prohibited / no entry. 近づかないで (chikazukanai de): Do not approach (近づく chikazuku: to approach; -ないで -nai de: negative imperative)."
+    },
+    {
+      "original": "郵便 POST",
+      "translation": "Mail / Post Office POST",
+      "romanization": "Yūbin POST",
+      "bbox": [
+        260,
+        442,
+        332,
+        561
+      ],
+      "breakdown": "郵便 (yūbin): mail, postal service. POST: English loanword for post."
+    },
+    {
+      "original": "日本郵便",
+      "translation": "Japan Post",
+      "romanization": "Nihon Yūbin",
+      "bbox": [
+        406,
+        503,
+        457,
+        609
+      ],
+      "breakdown": "日本 (Nihon): Japan. 郵便 (yūbin): mail, postal service."
+    },
+    {
+      "original": "誠心堂\n談薬局",
+      "translation": "Seishindo Consultation Pharmacy",
+      "romanization": "Seishindō Dan Yakkyoku",
+      "bbox": [
+        46,
+        100,
+        350,
+        298
+      ],
+      "breakdown": "誠心堂 (Seishindō): Name of the pharmacy. 談薬局 (dan yakkyoku): Consultation pharmacy (談 dan: talk/consultation; 薬局 yakkyoku: pharmacy)."
+    }
+  ],
+  "category": "bureaucratic",
+  "difficulty": "B1",
+  "where_youd_see_it": "On a red Japanese post box on a street or sidewalk, with a nearby pharmacy sign.",
+  "cultural_note": "Japanese post boxes are typically red and prominently feature the '〒' (te-mark) symbol, which is the official postal mark. The warning notice indicates that this particular post box is temporarily out of service or damaged.",
+  "image_id": "915ce6a49b7464e3",
+  "language": "ja"
+}
